@@ -1,6 +1,6 @@
 # ASWS
 
-Austrailain Space Weather Services (ASWS)
+Australian Space Weather Services (ASWS)
 
 Visit the [website](http://www.sws.bom.gov.au/World_Data_Centre/3/1) [http://www.sws.bom.gov.au/World_Data_Centre/3/1]
 
