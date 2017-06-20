@@ -1,19 +1,19 @@
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_3.xsd">
 <Version>2.2.3</Version>
   <NumericalData>
-    <ResourceID>spase://ASWS/NumericalData/Brisbane/Bri_Ionogram</ResourceID>
+    <ResourceID>spase://ASWS/NumericalData/Hobart/Hbt_Ionogram</ResourceID>
     <ResourceHeader>
-      <ResourceName>Australian Space Weather Services Brisbane Ionogram</ResourceName>
-      <AlternateName>Bribie Island</AlternateName>
+      <ResourceName>Australian Space Weather Services Hobart Ionogram</ResourceName>
+      <AlternateName/>
       <ReleaseDate>2016-02-25T17:00:00Z</ReleaseDate>
-      <Description>Ionograms are an image of frequency versus time delay (virtual height) of HF echoes from the ionosphere recorded by an ionosonde. An ionosonde is a swept frequency HF pulsed radar used to monitor the ionosphere. SWS WDC has archived ionogram data from 30 stations, 12 of them are still active at present. An IPS 5D ionosonde has been sounding since 29/03/1998. The 5D vertical sounding ionosondes normally sweep in frequency from about 1 to 21.5 MHz. Frequency step resolution for the 5D is 5kHz, with up to 4095 steps available. The step interval is variable, becoming more coarse at higher frequencies as ionograms are generally displayed on a logarithmic scale. Every five minutes, a Ionogram data file is recorded, cleaned and the cleaned ionogram is transfered to SWS Sydney head office for autoscaling and further analysis. The raw ionogram file is recorded in a DVD monthly, which will be posted to Sydney SWS head office every month. During 10/06/1997 to 29/04/1998, Brisbane also had an IPS 5C ionosonde. SWS WDC archives all raw ionogram files and cleaned ionogram files. The Brisbane digital clean ionogram data is available since 10/06/1997, and digital raw ionogram data since 29/03/1998. The Brisbane scaled hourly ionospheric data include parameters of foF2, foF1, FoE, foEs, fbEs, fmin, fxl, f'scaling F/s, M(3000)F2, h'F2, h'F, h'E, h'Es, h'Scaling R/S and Type Es. They are avalable since 01/01/1950. The Brisbane median data of foF2 and M(3000)F2 are available since 06/1943.
+      <Description>Ionograms are an image of frequency versus time delay (virtual height) of HF echoes from the ionosphere recorded by an ionosonde. An ionosonde is a swept frequency HF pulsed radar used to monitor the ionosphere. SWS WDC has archived ionogram data from 30 stations, 12 of them are still active at present. An IPS 5D ionosonde has been sounding since 01/09/1998 at Hobart. The 5D vertical sounding ionosondes normally sweep in frequency from about 1 to 21.5 MHz. Frequency step resolution for the 5D is 5kHz, with up to 4095 steps available. The step interval is variable, becoming more coarse at higher frequencies as ionograms are generally displayed on a logarithmic scale. Every five minutes, a Ionogram data file is recorded, cleaned and the cleaned ionogram is transfered to SWS Sydney head office for autoscaling and further analysis. The raw ionogram file is recorded in a DVD monthly, which will be posted to Sydney SWS head office every month. During 28/02/1994 to 15/09/2001, Hobart also had an IPS 4D ionosonde. During 09/01/1991 to 17/04/1997, an IPS 5a ionosonde. and During 14/10/1998 to 16/02/2009, a CADI ionosonde. SWS WDC archives all raw ionogram files and cleaned ionogram files. The Hobart digital clean ionogram data is available since 09/01/1991, and digital raw ionogram data since 28/02/1994. The Hobart scaled hourly ionospheric data include parameters of foF2, foF1, FoE, foEs, fbEs, fmin, fxl, f'scaling F/s, M(3000)F2, h'F2, h'F, h'E, h'Es, h'Scaling R/S and Type Es. They are avalable since 01/01/1950. The Hobart median data of foF2 and M(3000)F2 are available since 01/1950.
       </Description>
-      <Acknowledgement>We are thankful to the Space Weather Network, Bureau of Meteorology of Australia for the observations of Brisbane ionogram data.</Acknowledgement>
+      <Acknowledgement>We are thankful to the Space Weather Network, Bureau of Meteorology of Australia for the observations of Hobart ionogram data.</Acknowledgement>
       <Contact>
         <PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
         <Role>GeneralContact</Role>
       </Contact>
-      <Contact>
+      <Contact> 
         <PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
         <Role>MetadataContact</Role>
       </Contact>
@@ -55,7 +55,7 @@
       <AccessURL>
         <Name>FTP access to raw and clean ionogram data</Name>
            <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_ion_archive/</URL>
-        <Description>FTP access to the raw and clean ionogram data of Brisbane IPS 5C (bri5c) and IPS 5D (bri5d) ionosondes</Description>
+        <Description>FTP access to the raw and clean ionogram data of Hobart IPS 4D (hbt4d), 5A (hbt5a) and IPS 5D (hbt5d) ionosondes and CADI ionosonde (hbtcd)</Description>
         <Language>en</Language>
       </AccessURL>
       <Format>Binary</Format>
@@ -64,13 +64,13 @@
     </AccessInformation>
 	<ProviderProcessingLevel>The original ionogram data are raw data, they are then cleaned by reducing noise signals at the station.
 	The manually scaled data is calibrated and the autoscaled data is uncalibrated.</ProviderProcessingLevel>  
-    <InstrumentID>spase://SMWG/Instrument/Ground/Brisbane/Bri_Ionosonde</InstrumentID>
+    <InstrumentID>spase://SMWG/Instrument/Ground/Hobart/Hbt_Ionosonde</InstrumentID>
     <MeasurementType>Waves.Active</MeasurementType>
     <TemporalDescription>
       <TimeSpan>
-        <StartDate>1943-06-01T00:00:00Z</StartDate>
+        <StartDate>1950-01-01T00:00:00Z</StartDate>
         <RelativeStopDate>-P1D</RelativeStopDate>
-        <Note>The earliest median ionospheric data since 01/06/1943. Digital clean ionogram data are current to within a day.</Note>
+        <Note>The earliest scaled ionospheric data since 01/01/1950. Digital clean ionogram data are current to within a day.</Note>
       </TimeSpan>
     </TemporalDescription>
     <SpectralRange>RadioFrequency</SpectralRange>
@@ -115,7 +115,7 @@
       <ValidMin>50</ValidMin>
       <ValidMax>1000</ValidMax>
       <Mixed>
-	<MixedQuantity>Other</MixedQuantity>
+        <MixedQuantity>Other</MixedQuantity>
       </Mixed>
     </Parameter>
     <Extension/>

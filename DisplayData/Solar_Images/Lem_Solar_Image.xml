@@ -1,14 +1,14 @@
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_3.xsd">
 <Version>2.2.3</Version>
   <DisplayData>
-    <ResourceID>spase://ASWS/DisplayData/Culgoora/Clg_Solar_Image</ResourceID>
+    <ResourceID>spase://ASWS/DisplayData/Learmonth/Lem_Solar_Image</ResourceID>
     <ResourceHeader>
-      <ResourceName>Australian Space Weather Services Culgoora Solar Observatory Solar Image</ResourceName>
+      <ResourceName>Australian Space Weather Services Learmonth Solar Observatory Solar Image</ResourceName>
       <AlternateName/>
       <ReleaseDate>2015-10-19T17:00:00Z</ReleaseDate>
-      <Description>Australia has made major contributions to research in solar physics for several decades. Solar images are a major kind of records of solar activities. The SWS has monitored and archived solar activity images from Culgoora and Learmonth for more than two decades. They include H-Alpha (2003-2014) and White Light(2004-2013) images from Culgoora, and H-Alpha(2004-2009), GONG H-Alpha (since 2013), GONG White Light(since 2010)and GONG Magnetogram(since 2010) images from Learmonth. A new single mounted three telescopes has installed at Culgoora. Culgoora solar image data is available since 02/01/2003.
+      <Description>Australia has made major contributions to research in solar physics for several decades. Solar images are a major kind of records of solar activities. The SWS has monitored and archived solar activity images from Culgoora and Learmonth for more than two decades. They include H-Alpha (2003-2014) and White Light(2004-2013) images from Culgoora, and H-Alpha(2004-2009), GONG H-Alpha(since 2013), GONG White Light(since 2010)and GONG Magnetogram(since 2010) images from Learmonth. Learmonth solar image data is available since 31/05/2004.
 		 </Description>
-      <Acknowledgement>We are thankful to the Culgoora Solar Observatory of Space Weather Network, Bureau of Meteorology of Australia for the observations of Culgoora Solar Image data.</Acknowledgement>
+      <Acknowledgement>We are thankful to the United States Air Force at Learmonth Solar Observatory for supplying the GONG instrumentation and image data flow, as well as the USAF staff and Bureau of Meteorology of Australia staff for maintaining and providing the solar image data in near real time.</Acknowledgement>
       <Contact>
         <PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
         <Role>GeneralContact</Role>
@@ -30,16 +30,16 @@
         <Language>en</Language>
       </InformationURL>
       <InformationURL>
-        <Name>Real Time H-Alpha Image Display</Name>
-        <URL>http://www.sws.bom.gov.au/Solar/2/4</URL>
-		<Description>Real Time display of H-Alpha solar images recorded at Culgoora</Description>
+        <Name>Real Time Image Display</Name>
+        <URL>http://www.sws.bom.gov.au/Solar/3/3</URL>
+		<Description>Real Time display of GONG H-Alpha, GONG White Light and GONG Magnetogram solar images recorded at Learmonth</Description>
 		<Language>en</Language>
       </InformationURL>
 	  <InformationURL>
-        <Name>Real Time White Light Image Display</Name> 
-		<URL>http://www.sws.bom.gov.au/Solar/2/6</URL>
-		<Description>Real Time display of White Light solar images recorded at Culgoora</Description>
-		<Language>en</Language>
+        <Name>Global Oscillation Network Group Home Page</Name>
+        <URL>http://gong.nso.edu/</URL>
+        <Description></Description>
+        <Language>en</Language>
       </InformationURL>
     </ResourceHeader>
     <AccessInformation>
@@ -48,15 +48,15 @@
       <AccessRights>Open</AccessRights>
       <AccessURL>
         <Name>FTP access to Solar Images</Name>
-           <URL>ftp://ftp-out.sws.bom.gov.au/wdc/wdc_sol_archive/data/culgoora</URL>
-        <Description>FTP access to the Culgoora H-Alpha and White Light solar image data files</Description>
+           <URL>ftp://ftp-out.sws.bom.gov.au/wdc/wdc_sol_archive/data/learmonth</URL>
+        <Description>FTP access to the Learmonth H-Alpha, GONG H-Alpha, GONG White Light and GONG Magnetogram solar image data files</Description>
         <Language>en</Language>
       </AccessURL>
       <Format>JPEG</Format>
       <Encoding>None</Encoding>
       <Acknowledgement/>
     </AccessInformation>
-    <InstrumentID>spase://SMWG/Instrument/Ground/Culgoora/Telescope</InstrumentID>
+    <InstrumentID>spase://SMWG/Instrument/Ground/Learmonth/GONG</InstrumentID>
     <MeasurementType>Spectrum</MeasurementType>
     <TemporalDescription>
       <TimeSpan>
@@ -73,11 +73,11 @@
     <Caveats>The time record varies, generally record daylight hours.</Caveats>
     <!-- Keywords pertaining to the data presentation -->
     <Keyword>Solar Image</Keyword>
-    <Keyword>H-Alpha Image</Keyword>
+    <Keyword>H-Alpha</Keyword>
     <!-- Keywords pertaining to the physical phenomena appearing in spectrograms -->
-    <Keyword>White Light Image</Keyword>
-    <Keyword></Keyword>
-    <Keyword></Keyword>
+    <Keyword>GONG White Light</Keyword>
+    <Keyword>GONG Magnetogram</Keyword>
+    <Keyword>GONG H-Alpha</Keyword>
     <Keyword></Keyword>
     <Keyword></Keyword>
     <Keyword></Keyword>

@@ -1,15 +1,15 @@
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_3.xsd">
 <Version>2.2.3</Version>
   <NumericalData>
-    <ResourceID>spase://ASWS/NumericalData/Kingston/Kin_Cosmic_Ray</ResourceID>
+    <ResourceID>spase://ASWS/NumericalData/Mawson/Maw_Cosmic_Ray</ResourceID>
     <ResourceHeader>
-      <ResourceName>Australian Space Weather Services Kingston Cosmic Ray</ResourceName>
+      <ResourceName>Australian Space Weather Services Mawson Cosmic Ray</ResourceName>
       <AlternateName/>
-      <ReleaseDate>2016-06-01T17:00:00Z</ReleaseDate>
+      <ReleaseDate>2016-04-29T17:00:00Z</ReleaseDate>
       <Description>
-	  Cosmic rays consist mainly of protons of extremely high energies. They can originate from galactic sources or from the Sun. Cosmic rays are observed indirectly. At the lowest energies able to reach the Erath's surface this is achieved by a device known as a neutron monitor. When cosmic ray particles enter the Earth's atmosphere they interact with the nuclei of the air molecules to produce secondary radiation. At the lowest accessible energies this consists of a shower of protons, nuclear fragments and neutrons whilst at higher energies it made up of pions (which decay to muons). The neutrons predominate in this secondary radiation because the protons and nuclear fragments, being charged are more easily attenuated in subsequent travel. The neutron monitor is designed to detect these secondary neutrons. The SWS WDC archives Cosmic Ray data obtained from Kingston in Tasmania, and Mawson in Antarctica. The first Cosmic Ray data file from Kingston was obtained on 21/12/2000. 
+Cosmic rays consist mainly of protons of extremely high energies. They can originate from galactic sources or from the Sun. Cosmic rays are observed indirectly. At the lowest energies able to reach the Erath's surface this is achieved by a device known as a neutron monitor. When cosmic ray particles enter the Earth's atmosphere they interact with the nuclei of the air molecules to produce secondary radiation. At the lowest accessible energies this consists of a shower of protons, nuclear fragments and neutrons whilst at higher energies it made up of pions (which decay to muons). The neutrons predominate in this secondary radiation because the protons and nuclear fragments, being charged are more easily attenuated in subsequent travel. The neutron monitor is designed to detect these secondary neutrons. The SWS WDC archives Cosmic Ray data obtained from Kingston in Tasmania, and Mawson in Antarctica. The first Cosmic Ray data file from Mawson was obtained on 17/10/2002. 
       </Description>
-      <Acknowledgement>We are thankful to the Australian Antarctic Division for the observations of Kingston Cosmic Ray data.</Acknowledgement>
+      <Acknowledgement>We are thankful to the Australian Antarctic Division for the observations of Mawson Cosmic Ray data.</Acknowledgement>
       <Contact>
         <PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
         <Role>GeneralContact</Role>
@@ -50,7 +50,7 @@
       <AccessURL>
         <Name>FTP access to Cosmic Ray data</Name>
            <URL>ftp://ftp-out.sws.bom.gov.au/wdc/wdc_cosray/</URL>
-        <Description>FTP access to the station Cosmic Ray data data of Kingston and a README file.</Description>
+        <Description>FTP access to the station Cosmic Ray data data of Mawson and a README file.</Description>
         <Language>en</Language>
       </AccessURL>
       <Format>Text</Format>
@@ -58,13 +58,13 @@
       <Acknowledgement/>
     </AccessInformation>
 	<ProviderProcessingLevel>The Cosmic Ray data are processed data and are uncalibrated.</ProviderProcessingLevel>  
-    <InstrumentID>spase://SMWG/Instrument/Ground/Kingston/Kin_Cosmic_Ray</InstrumentID>
+    <InstrumentID>spase://SMWG/Instrument/Ground/Mawson/Maw_Cosmic_Ray</InstrumentID>
     <MeasurementType>EnergeticParticles</MeasurementType>
     <TemporalDescription>
       <TimeSpan>
-        <StartDate>2000-12-21T00:00:00Z</StartDate>
+        <StartDate>2002-10-17T00:00:00Z</StartDate>
         <RelativeStopDate>-P1D</RelativeStopDate>
-        <Note>The earliest Cosmic Ray data since 21/12/2000. Digital data are current to within a day.</Note>
+        <Note>The earliest Cosmic Ray data since 17/10/2002. Digital data are current to within a day.</Note>
       </TimeSpan>
     </TemporalDescription>
 	<ObservedRegion>Earth.NearSurface</ObservedRegion>
