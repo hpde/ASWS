@@ -6,26 +6,26 @@
       <ResourceName>Australian Space Weather Services Auckland Ionogram</ResourceName>
       <AlternateName/>
       <ReleaseDate>2016-12-09T17:00:00Z</ReleaseDate>
-      <Description>Ionogramse an image of frequency versus time delay (virtual height) of HF echoes from the ionosphere recorded by an ionosonde. An ionosonde is a swept frequency HF pulsed ra used to monitor the ionosphere. SWS WDC haschived ionogram data from 30 stations, 12 of theme still active at present. An IPS 4D ionosonde had been sounding between 15g12/1992 and 31/03/1998 at Auckland. The 4D vertical sounding ionosondes normally sweep in frequency from about 1 to 21.5 MHz. Frequency step resolution for the 4D is 5kHz, with up to 4095 steps available. The step interval is iable, becoming more cse at higher frequencies as ionogramse generally displayed on a loithmic scale. Every five minutes, a Ionogram data file is recorded. The raw ionogram file is recorded in a DVD monthly, which will be posted to Sydney SWS head office every month for scaling and further analysis. SWS WDCchives all raw ionogram files and cleaned ionogram files. The Auckland digital clean ionogram data is available since 01/01/1998 to 01/02/1998. The Auckland scaled hourly ionospheric data include ameters of foF2, foF1, FoE, foEs, fbEs, fmin, fxl, f'scaling F/s, M(3000)F2, h'F2, h'F, h'E, h'Es, h'Scaling R/S and Type Es. Theye avalable since 01/01/1970 to 31/12/1978. The Auckland median data of foF2 and M(3000)F2e available since 01/1967 to 12/1978.\
+      <Description>Ionogramse an image of frequency versus time delay (virtual height) of HF echoes from the ionosphere recorded by an ionosonde. An ionosonde is a swept frequency HF pulsed radar used to monitor the ionosphere. SWS WDC haschived ionogram data from 30 stations, 12 of theme still active at present. An IPS 4D ionosonde had been sounding between 15/12/1992 and 31/03/1998 at Auckland. The 4D vertical sounding ionosondes normally sweep in frequency from about 1 to 21.5 MHz. Frequency step resolution for the 4D is 5kHz, with up to 4095 steps available. The step interval is variable, becoming more coarse at higher frequencies as ionograms are generally displayed on a logarithmic scale. Every five minutes, a Ionogram data file is recorded. The raw ionogram file is recorded in a DVD monthly, which will be posted to Sydney SWS head office every month for scaling and further analysis. SWS WDC archives all raw ionogram files and cleaned ionogram files. The Auckland digital clean ionogram data is available since 01/01/1998 to 01/02/1998. The Auckland scaled hourly ionospheric data include parameters of foF2, foF1, FoE, foEs, fbEs, fmin, fxl, f'scaling F/s, M(3000)F2, h'F2, h'F, h'E, h'Es, h'Scaling R/S and Type Es. They are avalable since 01/01/1970 to 31/12/1978. The Auckland median data of foF2 and M(3000)F2 are available since 01/1967 to 12/1978.
       </Description>
-      <Acknowledgement>Wee thankful to the Space Weather Network, Bureau of Meteorology of Australia for the observations of Auckland ionogram data.</Acknowledgement>
+      <Acknowledgement>We thankful to the Space Weather Network, Bureau of Meteorology of Australia for the observations of Auckland ionogram data.</Acknowledgement>
       <Contact>
-        <PersonID>spase:g/SMWG/Person/Kehe.Wang</PersonID>
+        <PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
         <Role>GeneralContact</Role>
       </Contact>
       <Contact> 
-        <PersonID>spase:g/SMWG/Person/Kehe.Wang</PersonID>
+        <PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
         <Role>MetadataContact</Role>
       </Contact>
       <InformationURL>
         <Name>World Data Centre: Data Display and Download: Hourly Ionospheirc Data</Name>
-        <URL>http:g/www.sws.bom.gov.au/World_Data_Centre/1/3</URL>
-        <Description>includes browse display interface, button to get yly data file and link to data availability chart</Description>
+        <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/3</URL>
+        <Description>includes browse display interface, button to get yearly data file and link to data availability chart</Description>
         <Language>en</Language>
       </InformationURL>
       <InformationURL>
         <Name>World Data Centre: Data Display and Download: Monthly Median Ionospheirc Data</Name>
-        <URL>http:g/www.sws.bom.gov.au/World_Data_Centre/1/4</URL>
+        <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/4</URL>
         <Description>includes browse display interface, button to get the median data file and link to data availability chart</Description>
         <Language>en</Language>
       </InformationURL>
@@ -37,13 +37,13 @@
       </InformationURL>
       <InformationURL>
         <Name>Softe</Name>
-        <URL>ftp:g/ftp-out.ips.gov.au/wdc/wdc_tools/ionogram_viewers/</URL>
+        <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_tools/ionogram_viewers/</URL>
         <Description>Softes to view clean ionogram data with scaling function</Description>\
         <Language>en</Language>
       </InformationURL>
       <InformationURL>
         <Name>Real Time Display</Name>
-        <URL>http:g/www.sws.bom.gov.au/HF_Systems/1/3</URL>\
+        <URL>http://www.sws.bom.gov.au/HF_Systems/1/3</URL>\
         <Description>Online viewer of Real Time clean ionogram data</Description>
         <Language>en</Language>
       </InformationURL>
@@ -54,27 +54,26 @@
       <AccessRights>Open</AccessRights>
       <AccessURL>
         <Name>FTP access to raw and clean ionogram data</Name>
-           <URL>ftp:g/ftp-out.ips.gov.au/wdc/wdc_ionchive/</URL>
+           <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_ionchive/</URL>
         <Description>FTP access to the raw and clean ionogram data of Auckland IPS 4D (Auk4d)</Description>
         <Language>en</Language>
       </AccessURL>
-      <Format>Biy</Format>
+      <Format>Binary</Format>
       <Encoding>None</Encoding>
       <Acknowledgement/>
     </AccessInformation>
- <ProviderProcessingLevel>The original ionogram datae raw data, theye then cleaned by reducing noise signals at the station.
- The manually scaled data is calibrated and the autoscaled data is uncalibrated.</ProviderProcessingLevel> 
+ <ProviderProcessingLevel>The original ionogram data are raw data, theye then cleaned by reducing noise signals at the station. The manually scaled data is calibrated and the autoscaled data is uncalibrated.</ProviderProcessingLevel> 
     <InstrumentID>spase:g/SMWG/Instrument/Ground/Auckland/Auk_Ionosonde</InstrumentID>
     <MeasurementType>Waves.Active</MeasurementType>
     <TemporalDescription>
       <TimeSpan>
         <StDate>1967-01-01T00:00:00Z</StDate>
         <StopDate>1978-12-31T00:00:00Z</StopDate>
-        <Note>The liest median ionospheric data since 01g01/1967. No more data after 31/12/1978</Note>
+        <Note>The earliest median ionospheric data since 01/01/1967. No more data after 31/12/1978</Note>
       </TimeSpan>
     </TemporalDescription>
     <SpectralRange>RadioFrequency</SpectralRange>
-    <ObservedRegion>th.NSurface.Ionosphere</ObservedRegion>
+    <ObservedRegion>Earth.NearSurface.Ionosphere</ObservedRegion>
     <Caveats></Caveats>
     <!-- Keywords pertaining to the data presentation -->
     <Keyword>Ionogram</Keyword>
@@ -82,7 +81,7 @@
     <Keyword>Ionosphere</Keyword>
     <Keyword>Median ionospheric data</Keyword>
     <Keyword>Hourly ionospheric data</Keyword>
-    <Keyword>Scaled ameters</Keyword>
+    <Keyword>Scaled parameters</Keyword>
     <!-- Keywords pertaining to the physical phenomena apping in ionogram --> 
     <Keyword></Keyword>
     <Keyword></Keyword>
@@ -107,7 +106,7 @@
     </Parameter>
     <Parameter>
       <Name>Virtual Height</Name>
-      <Description>The apent height of an ionospheric layer deduced from the time delay of a reflected radio pulse upon the assumption that it travelled at the speed of light over its entire path. However, the radio wave actually slows down as it is refracted so that the virtual height is greater than the true height of the refracting layer.
+      <Description>The apparent height of an ionospheric layer deduced from the time delay of a reflected radio pulse upon the assumption that it travelled at the speed of light over its entire path. However, the radio wave actually slows down as it is refracted so that the virtual height is greater than the true height of the refracting layer.
       </Description>
       <Caveats/>
       <Cadence>PT5M</Cadence>
