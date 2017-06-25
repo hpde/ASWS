@@ -1,4 +1,4 @@
-<Spase xmlns="http:g/www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_3.xsd">
+<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_3.xsd">
 <Version>2.2.3</Version>
   <NumericalData>
     <ResourceID>spase://ASWS/NumericalData/Auckland/Auk_Ionogram</ResourceID>
@@ -63,7 +63,7 @@
       <Acknowledgement/>
     </AccessInformation>
  <ProviderProcessingLevel>The original ionogram data are raw data, theye then cleaned by reducing noise signals at the station. The manually scaled data is calibrated and the autoscaled data is uncalibrated.</ProviderProcessingLevel> 
-    <InstrumentID>spase:g/SMWG/Instrument/Ground/Auckland/Auk_Ionosonde</InstrumentID>
+    <InstrumentID>spase://SMWG/Instrument/Ground/Auckland/Auk_Ionosonde</InstrumentID>
     <MeasurementType>Waves.Active</MeasurementType>
     <TemporalDescription>
       <TimeSpan>
