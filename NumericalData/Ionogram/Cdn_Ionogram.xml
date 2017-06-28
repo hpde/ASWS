@@ -1,7 +1,7 @@
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_3.xsd">
 <Version>2.2.3</Version>
   <NumericalData>
-    <ResourceID>spase://ASWS/NumericalData/Camden/Cdn_Ionogram</ResourceID>
+    <ResourceID>spase://ASWS/NumericalData/Ionogram/Cdn_Ionogram</ResourceID>
     <ResourceHeader>
       <ResourceName>Australian Space Weather Services Camden Ionogram</ResourceName>
       <AlternateName>Sydney</AlternateName>
