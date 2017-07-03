@@ -1,0 +1,32 @@
+<Spase xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_2.xsd">
+	<Version>2.2.2</Version>
+	<Observatory>
+		<ResourceID>spase://ASWS/Observatory/Ground/Scott_Base</ResourceID>
+		<ResourceHeader>
+			<ResourceName>Scott_Base</ResourceName>
+			<AlternateName>None</AlternateName>
+  			<ReleaseDate>2017-07-03T12:34:56.789</ReleaseDate>
+			<Description>Scott_Base station is located on Scott_Base, Antarctica. It has been in operation since January 1958.</Description>
+			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
+			<Contact>
+				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
+				<Role>GeneralContact</Role>
+				<Role>DataProducer</Role>
+			</Contact>
+			<Contact>
+				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
+				<Role>MetadataContact</Role>
+			</Contact>
+			<PriorID/>
+		</ResourceHeader>
+		<ObservatoryGroupID/>
+		<Location>
+			<ObservatoryRegion>Earth.Surface</ObservatoryRegion>
+			<Latitude>-77.80</Latitude>
+			<Longitude>166.80E</Longitude>
+		</Location>
+		<OperatingSpan>
+			<StartDate>1958-01-01T00:00:00.000</StartDate>
+		</OperatingSpan>
+	</Observatory>
+</Spase>

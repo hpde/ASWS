@@ -1,0 +1,32 @@
+<Spase xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_2.xsd">
+	<Version>2.2.2</Version>
+	<Observatory>
+		<ResourceID>spase://ASWS/Observatory/Ground/Cocos_Islands</ResourceID>
+		<ResourceHeader>
+			<ResourceName>Cocos_Islands</ResourceName>
+			<AlternateName>Keeling Islands</AlternateName>
+  			<ReleaseDate>2017-07-03T12:34:56.789</ReleaseDate>
+			<Description>Cocos_Islands station is located on Cocos Islands, WA. It has been in operation since November 1961.</Description>
+			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
+			<Contact>
+				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
+				<Role>GeneralContact</Role>
+				<Role>DataProducer</Role>
+			</Contact>
+			<Contact>
+				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
+				<Role>MetadataContact</Role>
+			</Contact>
+			<PriorID/>
+		</ResourceHeader>
+		<ObservatoryGroupID/>
+		<Location>
+			<ObservatoryRegion>Earth.Surface</ObservatoryRegion>
+			<Latitude>-12.20</Latitude>
+			<Longitude>96.80E</Longitude>
+		</Location>
+		<OperatingSpan>
+			<StartDate>1961-11-01T00:00:00.000</StartDate>
+		</OperatingSpan>
+	</Observatory>
+</Spase>

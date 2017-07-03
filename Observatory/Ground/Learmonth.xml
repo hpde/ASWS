@@ -1,0 +1,32 @@
+<Spase xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_2.xsd">
+	<Version>2.2.2</Version>
+	<Observatory>
+		<ResourceID>spase://ASWS/Observatory/Ground/Learmonth</ResourceID>
+		<ResourceHeader>
+			<ResourceName>Learmonth</ResourceName>
+			<AlternateName>None</AlternateName>
+  			<ReleaseDate>2017-07-03T12:34:56.789</ReleaseDate>
+			<Description>Learmonth station is located on Learmonth, WA. It has been in operation since April 1979.</Description>
+			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
+			<Contact>
+				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
+				<Role>GeneralContact</Role>
+				<Role>DataProducer</Role>
+			</Contact>
+			<Contact>
+				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
+				<Role>MetadataContact</Role>
+			</Contact>
+			<PriorID/>
+		</ResourceHeader>
+		<ObservatoryGroupID/>
+		<Location>
+			<ObservatoryRegion>Earth.Surface</ObservatoryRegion>
+			<Latitude>-22.25</Latitude>
+			<Longitude>114.08E</Longitude>
+		</Location>
+		<OperatingSpan>
+			<StartDate>1979-04-01T00:00:00.000</StartDate>
+		</OperatingSpan>
+	</Observatory>
+</Spase>
