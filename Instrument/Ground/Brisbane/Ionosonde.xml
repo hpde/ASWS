@@ -5,8 +5,7 @@
     <ResourceHeader>
       <ResourceName>Brisbane Ionosonde</ResourceName>
       <ReleaseDate>2017-06-28T17:20:00Z</ReleaseDate>
-      <Description>The Brisbane Ionosonde station near Brisbane, Queensland, Australia, has a IPS 5D digital Ionosonde since May of 1998, after a IPS 5C ionosonde was run for 10 months from June 1997 to April 1998. The 5D vertical sounding ionosondes normally sweep in frequency from about 1 to 21.5 MHz. Frequency step resolution for the 5D is 5kHz, with up to 4095 steps available. The step interval is variable, becoming more coarse at higher frequencies as ionograms are generally displayed on a logarithmic scale.  See details at
-http://www.sws.bom.gov.au/World_Data_Centre/2/1/10</Description>
+      <Description>The Brisbane Ionosonde station near Brisbane, Queensland, Australia, has a IPS 5D digital Ionosonde since May of 1998, after a IPS 5C ionosonde was run for 10 months from June 1997 to April 1998. The 5D vertical sounding ionosondes normally sweep in frequency from about 1 to 21.5 MHz. Frequency step resolution for the 5D is 5kHz, with up to 4095 steps available. The step interval is variable, becoming more coarse at higher frequencies as ionograms are generally displayed on a logarithmic scale.  See details at http://www.sws.bom.gov.au/World_Data_Centre/2/1/10</Description>
       <Contact>
         <PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
         <Role>GeneralContact</Role>

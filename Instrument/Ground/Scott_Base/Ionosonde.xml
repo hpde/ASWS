@@ -1,0 +1,18 @@
+<Spase xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_2.xsd">
+  <Version>2.2.2</Version>
+  <Instrument>
+    <ResourceID>spase:/ASWS/Instrument/Ground/Scott_Base/Ionosonde</ResourceID>
+    <ResourceHeader>
+      <ResourceName>Scott Base Ionosonde</ResourceName>
+      <ReleaseDate>2017-07-06T17:20:00Z</ReleaseDate>
+      <Description>The Scott Base Ionosonde station in Scott Base, Antarctica, has Ionosondes since January of 1958. The current IPS 4D ionosnde is in operation since December of 1993. No ionosonde information before 12/1993 is available. The IPS 4D vertical sounding ionosondes normally sweep in frequency from about 1 to 21.5 MHz. Frequency step resolution for the 4D is 5kHz, with up to 4095 steps available. The step interval is variable, becoming more coarse at higher frequencies as ionograms are generally displayed on a logarithmic scale. Every five minutes, a Ionogram data file is recorded, cleaned and the cleaned ionogram is transfered to Sydney SWS head office for scaling and further analysis. See details at http://www.sws.bom.gov.au/World_Data_Centre/2/1/25</Description>
+      <Contact>
+        <PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
+        <Role>GeneralContact</Role>
+      </Contact>
+    </ResourceHeader>
+    <InstrumentType>Ionosonde</InstrumentType>
+    <InvestigationName>Scott Base Ionosonde</InvestigationName>
+    <ObservatoryID>spase://ASWS/Observatory/Ground/Scott_Base</ObservatoryID>
+  </Instrument>
+</Spase>

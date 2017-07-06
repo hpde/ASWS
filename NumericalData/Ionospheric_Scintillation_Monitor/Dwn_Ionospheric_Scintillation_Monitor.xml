@@ -25,12 +25,6 @@
         <Language>en</Language>
       </InformationURL>
       <InformationURL>
-        <Name>World Data Centre Intranet: Ionospheric Scintillation Monitor: Display and Download</Name>
-        <URL>http://wdcintranet.syd.ips.gov.au/World_Data_Centre/12/1</URL>
-        <Description>includes browse display interface, button to get daily data file and link to data availability chart</Description>
-        <Language>en</Language>
-      </InformationURL>
-      <InformationURL>
         <Name>Documentation</Name>
         <URL>http://www.sws.bom.gov.au/World_Data_Centre/2/6/</URL>
         <Description>includes descriptions of station logfiles, data formats and examples and hardware</Description>
