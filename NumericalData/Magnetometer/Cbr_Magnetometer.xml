@@ -11,11 +11,11 @@
       </Description>
       <Acknowledgement>We are thankful to GA, ICSWSE and the Space Weather Network, Bureau of Meteorology of Australia for the observations of Canberra Magnetometer data.</Acknowledgement>
       <Contact>
-        <PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
+        <PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
         <Role>GeneralContact</Role>
       </Contact>
       <Contact> 
-        <PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
+        <PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
         <Role>MetadataContact</Role>
       </Contact>
       <InformationURL>
@@ -52,7 +52,7 @@
       <Acknowledgement/>
     </AccessInformation>
 	<ProviderProcessingLevel>The original magnetometer data are raw data and are uncalibrated.</ProviderProcessingLevel>  
-    <InstrumentID>spase://SMWG/Instrument/Ground/Camden/Cdn_Ionosonde</InstrumentID>
+    <InstrumentID>spase://ASWS/Instrument/Ground/Canberra/Magnetometer</InstrumentID>
     <MeasurementType>Waves.Passive</MeasurementType>
     <TemporalDescription>
       <TimeSpan>

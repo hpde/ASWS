@@ -52,7 +52,7 @@
       <Acknowledgement/>
     </AccessInformation>
 	<ProviderProcessingLevel>The Riometer data are processed data and are uncalibrated.</ProviderProcessingLevel>  
-    <InstrumentID>spase://ASWS/Instrument/Ground/Macquarie Island/Mac_Riometer</InstrumentID>
+    <InstrumentID>spase://ASWS/Instrument/Ground/Macquarie Island/Riometer</InstrumentID>
     <MeasurementType>Waves.Active</MeasurementType>
     <TemporalDescription>
       <TimeSpan>

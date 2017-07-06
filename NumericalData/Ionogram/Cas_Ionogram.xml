@@ -64,7 +64,7 @@
     </AccessInformation>
 	<ProviderProcessingLevel>The original ionogram data are raw data, they are then cleaned by reducing noise signals at the station.
 	The manually scaled data is calibrated and the autoscaled data is uncalibrated.</ProviderProcessingLevel>  
-    <InstrumentID>spase://SMWG/Instrument/Ground/Casey/Cas_Ionosonde</InstrumentID>
+    <InstrumentID>spase://ASWS/Instrument/Ground/Casey/Ionosonde</InstrumentID>
     <MeasurementType>Waves.Active</MeasurementType>
     <TemporalDescription>
       <TimeSpan>

@@ -52,7 +52,7 @@
       <Acknowledgement/>
     </AccessInformation>
 	<ProviderProcessingLevel>The Cosmic Ray data are processed data and are uncalibrated.</ProviderProcessingLevel>  
-    <InstrumentID>spase://SMWG/Instrument/Ground/Kingston/Kin_Cosmic_Ray</InstrumentID>
+    <InstrumentID>spase://SMWG/Instrument/Ground/Kingston/Cosmic_Ray</InstrumentID>
     <MeasurementType>EnergeticParticles</MeasurementType>
     <TemporalDescription>
       <TimeSpan>

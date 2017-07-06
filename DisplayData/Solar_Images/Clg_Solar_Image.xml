@@ -56,7 +56,7 @@
       <Encoding>None</Encoding>
       <Acknowledgement/>
     </AccessInformation>
-    <InstrumentID>spase://SMWG/Instrument/Ground/Culgoora/Telescope</InstrumentID>
+    <InstrumentID>spase://ASWS/Instrument/Ground/Culgoora/Telescope</InstrumentID>
     <MeasurementType>Spectrum</MeasurementType>
     <TemporalDescription>
       <TimeSpan>

@@ -50,7 +50,7 @@
       <Encoding>None</Encoding>
       <Acknowledgement/>
     </AccessInformation>
-    <InstrumentID>spase://SMWG/Instrument/Ground/Learmonth/RIMS</InstrumentID>
+    <InstrumentID>spase://ASWS/Instrument/Ground/Learmonth/Solar_Radio</InstrumentID>
     <MeasurementType>Waves.Passive</MeasurementType>
     <TemporalDescription>
       <TimeSpan>

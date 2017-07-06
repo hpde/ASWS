@@ -52,7 +52,7 @@
       <Acknowledgement/>
     </AccessInformation>
 	<ProviderProcessingLevel>The Ionospheric Scintillation Monitor data are processed data and are uncalibrated.</ProviderProcessingLevel>  
-    <InstrumentID>spase://SMWG/Instrument/Ground/Darwin/Dwn_Ionospheric_Scintillation_Monitor</InstrumentID>
+    <InstrumentID>spase://ASWS/Instrument/Ground/Darwin/Ionospheric_Scintillation_Monitor</InstrumentID>
     <MeasurementType>Waves.Active</MeasurementType>
     <TemporalDescription>
       <TimeSpan>
