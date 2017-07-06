@@ -1,7 +1,7 @@
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_3.xsd">
 <Version>2.2.3</Version>
   <NumericalData>
-    <ResourceID>spase://ASWS/NumericalData/Kingston/Kin_Cosmic_Ray</ResourceID>
+    <ResourceID>spase://ASWS/NumericalData/Cosmic_Ray/Kin_Cosmic_Ray</ResourceID>
     <ResourceHeader>
       <ResourceName>Australian Space Weather Services Kingston Cosmic Ray</ResourceName>
       <AlternateName/>

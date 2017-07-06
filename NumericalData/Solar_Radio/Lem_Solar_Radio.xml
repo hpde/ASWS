@@ -1,7 +1,7 @@
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_3.xsd">
 <Version>2.2.3</Version>
   <DisplayData>
-    <ResourceID>spase://ASWS/DisplayData/Learmonth/Lem_Solar_Radio</ResourceID>
+    <ResourceID>spase://ASWS/DisplayData/Solar_Radio/Lem_Solar_Radio</ResourceID>
     <ResourceHeader>
       <ResourceName>Australian Space Weather Services Learmonth Solar Observatory Solar Radio Data</ResourceName>
       <AlternateName/>
