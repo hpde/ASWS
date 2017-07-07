@@ -1,7 +1,7 @@
-<Spase xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_2.xsd">
-  <Version>2.2.2</Version>
+<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_3.xsd">
+  <Version>2.2.3</Version>
   <Instrument>
-    <ResourceID>spase:/ASWS/Instrument/Ground/Norfolk_Island/Ionosonde</ResourceID>
+    <ResourceID>spase://ASWS/Instrument/Ground/Norfolk_Island/Ionosonde</ResourceID>
     <ResourceHeader>
       <ResourceName>Norfolk Island Ionosonde</ResourceName>
       <ReleaseDate>2017-07-06T17:20:00Z</ReleaseDate>
