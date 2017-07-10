@@ -1,0 +1,32 @@
+<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_3.xsd">
+	<Version>2.2.3</Version>
+	<Observatory>
+		<ResourceID>spase://ASWS/Observatory/Ground/Culgoora</ResourceID>
+		<ResourceHeader>
+			<ResourceName>Culgoora</ResourceName>
+			<AlternateName>Narrabri (although not used with data reports)</AlternateName>
+  			<ReleaseDate>2017-07-03T12:34:56.789</ReleaseDate>
+			<Description>Culgoora station is located in Narrabri, NSW. It has been in operation since 1965.</Description>
+			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
+			<Contact>
+				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
+				<Role>GeneralContact</Role>
+				<Role>DataProducer</Role>
+			</Contact>
+			<Contact>
+				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
+				<Role>MetadataContact</Role>
+			</Contact>
+			<PriorID/>
+		</ResourceHeader>
+		<ObservatoryGroupID/>
+		<Location>
+			<ObservatoryRegion>Earth.Surface</ObservatoryRegion>
+			<Latitude>-30.28</Latitude>
+			<Longitude>149.58E</Longitude>
+		</Location>
+		<OperatingSpan>
+			<StartDate>1965-01-01T00:00:00.000</StartDate>
+		</OperatingSpan>
+	</Observatory>
+</Spase>

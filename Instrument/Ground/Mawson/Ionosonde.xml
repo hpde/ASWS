@@ -1,0 +1,18 @@
+<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_3.xsd">
+  <Version>2.2.3</Version>
+  <Instrument>
+    <ResourceID>spase://ASWS/Instrument/Ground/Mawson/Ionosonde</ResourceID>
+    <ResourceHeader>
+      <ResourceName>Mawson Ionosonde</ResourceName>
+      <ReleaseDate>2017-07-06T17:20:00Z</ReleaseDate>
+      <Description>The Mawson Ionosonde station in Mawson, Antarctica, has ionosondes since February 1958. They are IPS 4D between 01/1994 and 01/2000, IPS 5D between 02/2000 and 02/2010, and CADI since 02/2009 to now. The CADI vertical sounding ionosondes normally sweep in frequency from about 1 to 20 MHz. Three standard sweeps are provided: low resolution (100 frequencies), medium resolution (200 frequencies), high resolution (400 frequencies). The step size may be selected to be linear or logarithmic. The step interval is variable, becoming more coarse at higher frequencies as ionograms are generally displayed on a logarithmic scale. Height range up to 512 km (to be increased to 1000 km) with 6 km resolution. Every five minutes, a Ionogram data file is recorded, cleaned and the cleaned ionogram is transfered to SWS Sydney head office for autoscaling and further analysis. See details at http://www.sws.bom.gov.au/World_Data_Centre/2/1/23</Description>
+      <Contact>
+        <PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
+        <Role>GeneralContact</Role>
+      </Contact>
+    </ResourceHeader>
+    <InstrumentType>Ionosonde</InstrumentType>
+    <InvestigationName>Mawson Ionosonde</InvestigationName>
+    <ObservatoryID>spase://ASWS/Observatory/Ground/Mawson</ObservatoryID>
+  </Instrument>
+</Spase>
