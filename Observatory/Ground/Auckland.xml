@@ -5,8 +5,8 @@
 		<ResourceHeader>
 			<ResourceName>Auckland</ResourceName>
 			<AlternateName>None</AlternateName>
-  			<ReleaseDate>2017-07-03T12:34:56.789</ReleaseDate>
-			<Description>Auckland station is located on Auckland, New Zealand. It had been in operation betweeen December 1967 and March 1998.</Description>
+  			<ReleaseDate>2017-07-19T12:34:56.789</ReleaseDate>
+			<Description>Auckland station is located on Auckland, New Zealand. It had been in operation betweeen December 1967 and March 1998. See details at http://www.sws.bom.gov.au/World_Data_Centre/2/1/16</Description>
 			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
 			<Contact>
 				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>

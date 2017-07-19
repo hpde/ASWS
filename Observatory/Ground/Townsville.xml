@@ -6,7 +6,7 @@
 			<ResourceName>Townsville</ResourceName>
 			<AlternateName>None</AlternateName>
   			<ReleaseDate>2017-07-03T12:34:56.789</ReleaseDate>
-			<Description>Townsville station is located in Townsville, QLD. It has been in operation since June 1946.</Description>
+			<Description>Townsville station is located in Townsville, QLD. It has been in operation since June 1946. See details at http://www.sws.bom.gov.au/World_Data_Centre/2/1/5</Description>
 			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
 			<Contact>
 				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>

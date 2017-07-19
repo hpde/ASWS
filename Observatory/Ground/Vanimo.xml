@@ -1,12 +1,12 @@
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_3.xsd">
 	<Version>2.2.3</Version>
 	<Observatory>
-		<ResourceID>spase://ASWS/Observatory/Ground/Casey</ResourceID>
+		<ResourceID>spase://ASWS/Observatory/Ground/Vanimo</ResourceID>
 		<ResourceHeader>
-			<ResourceName>Casey</ResourceName>
+			<ResourceName>Vanimo</ResourceName>
 			<AlternateName>None</AlternateName>
-  			<ReleaseDate>2017-07-03T12:34:56.789</ReleaseDate>
-			<Description>Casey station is located on Casey, Antarctica. It has been in operation since July 1957. See details at http://www.sws.bom.gov.au/World_Data_Centre/2/1/24</Description>
+  			<ReleaseDate>2017-07-19T12:34:56.789</ReleaseDate>
+			<Description>Vanimo station is located on Vanimo, Pupua New Guinea. It has been in operation since July 1964. See details at http://www.sws.bom.gov.au/World_Data_Centre/2/1/2</Description>
 			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
 			<Contact>
 				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
@@ -22,11 +22,11 @@
 		<ObservatoryGroupID/>
 		<Location>
 			<ObservatoryRegion>Earth.Surface</ObservatoryRegion>
-			<Latitude>-66.30</Latitude>
-			<Longitude>110.50E</Longitude>
+			<Latitude>-2.70</Latitude>
+			<Longitude>141.30E</Longitude>
 		</Location>
 		<OperatingSpan>
-			<StartDate>1957-07-01T00:00:00.000</StartDate>
+			<StartDate>1964-07-01T00:00:00.000</StartDate>
 		</OperatingSpan>
 	</Observatory>
 </Spase>

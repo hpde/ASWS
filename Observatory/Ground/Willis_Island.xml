@@ -1,12 +1,12 @@
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_3.xsd">
 	<Version>2.2.3</Version>
 	<Observatory>
-		<ResourceID>spase://ASWS/Observatory/Ground/Casey</ResourceID>
+		<ResourceID>spase://ASWS/Observatory/Ground/Willis_Island</ResourceID>
 		<ResourceHeader>
-			<ResourceName>Casey</ResourceName>
+			<ResourceName>Willis Island</ResourceName>
 			<AlternateName>None</AlternateName>
-  			<ReleaseDate>2017-07-03T12:34:56.789</ReleaseDate>
-			<Description>Casey station is located on Casey, Antarctica. It has been in operation since July 1957. See details at http://www.sws.bom.gov.au/World_Data_Centre/2/1/24</Description>
+  			<ReleaseDate>2017-07-19T12:34:56.789</ReleaseDate>
+			<Description>Willis Island station is located on Willis Island, QLD. It has been in operation since December 2010. See details at http://www.sws.bom.gov.au/World_Data_Centre/2/1/31</Description>
 			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
 			<Contact>
 				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
@@ -22,11 +22,11 @@
 		<ObservatoryGroupID/>
 		<Location>
 			<ObservatoryRegion>Earth.Surface</ObservatoryRegion>
-			<Latitude>-66.30</Latitude>
-			<Longitude>110.50E</Longitude>
+			<Latitude>-16.29</Latitude>
+			<Longitude>149.97E</Longitude>
 		</Location>
 		<OperatingSpan>
-			<StartDate>1957-07-01T00:00:00.000</StartDate>
+			<StartDate>2010-12-01T00:00:00.000</StartDate>
 		</OperatingSpan>
 	</Observatory>
 </Spase>

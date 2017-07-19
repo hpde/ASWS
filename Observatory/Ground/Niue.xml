@@ -6,7 +6,7 @@
 			<ResourceName>Niue</ResourceName>
 			<AlternateName>None</AlternateName>
   			<ReleaseDate>2017-07-03T12:34:56.789</ReleaseDate>
-			<Description>Niue station is located on Niue Island. It has been in operation since October 2004.</Description>
+			<Description>Niue station is located on Niue Island. It has been in operation since October 2004. See details at http://www.sws.bom.gov.au/World_Data_Centre/2/1/18</Description>
 			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
 			<Contact>
 				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
