@@ -17,18 +17,18 @@
 				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
 				<Role>MetadataContact</Role>
 			</Contact>
-                <InformationURL>
-                  	<Name>ASWS Observatory Information: Learmonth</Name>
-        		     <URL>http://www.sws.bom.gov.au/World_Data_Centre/2/1/21</URL>
-       			<Description>includes observatory/station name, location, lifetime, identity and datasets informtion.</Description>
-       			<Language>en</Language>
-      		</InformationURL>
-                <InformationURL>
-                  	<Name>ASWS Learmopnth Solar Observatory</Name>
-        		     <URL>http://www.sws.bom.gov.au/Solar/3/1</URL>
-       			<Description>includes Learmonth Solar Observatory Overview and more details informtion.</Description>
-       			<Language>en</Language>
-      		</InformationURL>
+                	<InformationURL>
+                  		<Name>ASWS Observatory Information: Learmonth</Name>
+        		     	<URL>http://www.sws.bom.gov.au/World_Data_Centre/2/1/21</URL>
+       				<Description>includes observatory/station name, location, lifetime, identity and datasets informtion.</Description>
+       				<Language>en</Language>
+      			</InformationURL>
+                	<InformationURL>
+                  		<Name>ASWS Learmopnth Solar Observatory</Name>
+        		     	<URL>http://www.sws.bom.gov.au/Solar/3/1</URL>
+       				<Description>includes Learmonth Solar Observatory Overview and more details informtion.</Description>
+       				<Language>en</Language>
+      			</InformationURL>
 			<PriorID/>
 		</ResourceHeader>
 		<ObservatoryGroupID/>
