@@ -6,7 +6,7 @@
 			<ResourceName>Learmonth</ResourceName>
 			<AlternateName>None</AlternateName>
   			<ReleaseDate>2017-07-03T12:34:56.789</ReleaseDate>
-			<Description>Learmonth station is located on Learmonth, WA. It has been in operation since April 1979. See details at http://www.sws.bom.gov.au/World_Data_Centre/2/1/21</Description>
+			<Description>Learmonth station is located on Learmonth, WA. It has been in operation since April 1979.</Description>
 			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
 			<Contact>
 				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
@@ -17,6 +17,18 @@
 				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
 				<Role>MetadataContact</Role>
 			</Contact>
+                <InformationURL>
+                  	<Name>ASWS Observatory Information: Learmonth</Name>
+        		     <URL>http://www.sws.bom.gov.au/World_Data_Centre/2/1/21</URL>
+       			<Description>includes observatory/station name, location, lifetime, identity and datasets informtion.</Description>
+       			<Language>en</Language>
+      		</InformationURL>
+                <InformationURL>
+                  	<Name>ASWS Learmopnth Solar Observatory</Name>
+        		     <URL>http://www.sws.bom.gov.au/Solar/3/1</URL>
+       			<Description>includes Learmonth Solar Observatory Overview and more details informtion.</Description>
+       			<Language>en</Language>
+      		</InformationURL>
 			<PriorID/>
 		</ResourceHeader>
 		<ObservatoryGroupID/>

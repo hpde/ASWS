@@ -6,7 +6,7 @@
 			<ResourceName>Davis</ResourceName>
 			<AlternateName>None</AlternateName>
   			<ReleaseDate>2017-07-03T12:34:56.789</ReleaseDate>
-			<Description>Davis station is located on Davis, Antarctica. It has been in operation since February 1985. See details at http://www.sws.bom.gov.au/World_Data_Centre/2/1/22</Description>
+			<Description>Davis station is located on Davis, Antarctica. It has been in operation since February 1985.</Description>
 			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
 			<Contact>
 				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
@@ -17,6 +17,12 @@
 				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
 				<Role>MetadataContact</Role>
 			</Contact>
+                <InformationURL>
+                  	<Name>ASWS Observatory Information: Davis</Name>
+        		     <URL>http://www.sws.bom.gov.au/World_Data_Centre/2/1/22</URL>
+       			<Description>includes observatory/station name, location, lifetime, identity and datasets informtion.</Description>
+       			<Language>en</Language>
+      		</InformationURL>
 			<PriorID/>
 		</ResourceHeader>
 		<ObservatoryGroupID/>

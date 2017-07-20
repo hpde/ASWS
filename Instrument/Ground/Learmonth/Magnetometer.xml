@@ -1,0 +1,22 @@
+<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_3.xsd">
+  <Version>2.2.3</Version>
+  <Instrument>
+    <ResourceID>spase://ASWS/Instrument/Ground/Learmonth/Magnetometer</ResourceID>
+    <ResourceHeader>
+      <ResourceName>Learmonth Magnetometer</ResourceName>
+      <ReleaseDate>2017-07-20T17:20:00Z</ReleaseDate>
+      <Description>The Learmonth Magnetometer station in Learmonth, WA, Australia, has a digital Magnetometer since March 1995. Up to today, there are four magnetometers monitored or still are monitoring in the staion.
+
+ 
+      
+ See details at http://www.sws.bom.gov.au/World_Data_Centre/2/1/21</Description>
+      <Contact>
+        <PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
+        <Role>GeneralContact</Role>
+      </Contact>
+    </ResourceHeader>
+    <InstrumentType>Magnetometer</InstrumentType>
+    <InvestigationName>Learmonth Magnetometer</InvestigationName>
+    <ObservatoryID>spase://ASWS/Observatory/Ground/Learmonth</ObservatoryID>
+  </Instrument>
+</Spase>
