@@ -10,7 +10,11 @@
      The Southern Hemisphere Imaging Riometer Experiment (SHIRE) is an IRIS imaging riometer system which was installed at the Australian Antarctic station, Davis (68.58degS, 79.97degE geographic, -74.48deg Invariant latitude), over the Austral summer of 1996/97. The project is the result of collaboration between the Space Physics Group at the University of Newcastle, the Institute for Physical Science and Technology at the University of Maryland, and the Australian Antarctic Division.
      
      A comprehensive description of the original IRIS imaging riometer (on which the SHIRE instrument is based) is given by Detrick and Rosenberg (1990), and further in the system manual for the IRIS. Only the major features of the instrument and its operation are described here.
-     
+
+     The project ran until around 2012, but according to notes associated with the project, the project was classified as,, "closed - Some data were collected and submitted, but were unable to be assessed by the AADC as complete."
+
+And a further note explains that:
+"Despite efforts by the AADC to obtain data from this project for archival, these repeated attempts have proven unsuccessful, and this project is therefore being closed without the AADC having received the requisite data/metadata. This lack of delivery will be taken into account if the Chief Investigator associated with this project subsequently applies for a new AAS project."
      
       </Description>
       <Acknowledgement>We are thankful to AAD and the Space Weather Network, Bureau of Meteorology of Australia for the observations of Davis Imaging Riometer data.</Acknowledgement>
@@ -54,6 +58,7 @@
     <TemporalDescription>
       <TimeSpan>
         <StartDate>1997-02-19T05:00:00Z</StartDate>
+        <StopDate>2006-12-07T05:00:00Z</StopDate>
         <RelativeStopDate>-P1D</RelativeStopDate>
         <Note>Data are current to within a day or two.</Note>
       </TimeSpan>

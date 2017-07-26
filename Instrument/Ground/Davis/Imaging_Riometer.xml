@@ -12,6 +12,11 @@
 
 	Riometer stands for relative ionosphere opacity meter. A riometer is a passive (does not transmit) sensor for measuring the absorption of radio frequency noise by the ionosphere. The radio noise originates from distant stars and galaxies or even nearby sources such as Jupiter. Imaging riometers are ideal for studying ionospheric electron density dynamics associated with high latitude phenomena on both the day and night side of the magnetosphere.SHIRE is a 7 x 7 crossed dipole antenna array that is sensitive to 38.2 MHz. The array probes an area of 200 by 200 km at an altitude of 90 km. The Centre for Space Physics in collaboration with the Institute for Physical Science and Technology at the University of Maryland (USA) and the Australian Antarctic Division have deployed a high resolution imagimg riometer at the Australian Antarctic base at Davis (-74.6 deg latitude). The aim is to study space-time images of the cusp and auroral latitude ionosphere in conjunction with the digital magnetometer network.
 
+	The project ran until around 2012, but according to notes associated with the project, the project was classified as,, "closed - Some data were collected and submitted, but were unable to be assessed by the AADC as complete."
+
+	And a further note explains that:
+	"Despite efforts by the AADC to obtain data from this project for archival, these repeated attempts have proven unsuccessful, and this project is therefore being closed without the AADC having received the requisite data/metadata. This lack of delivery will be taken into account if the Chief Investigator associated with this project subsequently applies for a new AAS project."
+
       </Description>
       <Contact>
         <PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
