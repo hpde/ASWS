@@ -4,8 +4,10 @@
     <ResourceID>spase://ASWS/Instrument/Ground/Auckland/Ionosonde</ResourceID>
     <ResourceHeader>
       <ResourceName>Auckland Ionosonde</ResourceName>
-      <ReleaseDate>2017-07-05T11:20:00Z</ReleaseDate>
-      <Description>The Auckland Ionosonde station near Auckland, New Zealand, had a IPS 4D digital Ionosonde between 1992 and 1998, after a IPS-42 ionosonde was in operation between 1983 and 1994(perhaps). The Auckland hourly scaled data and median data of foF2 and M(3000)F2 are available since 01/1967 to 12/1978. However, no Ionosonde information between 1967 and 1978 is available. See details at http://www.sws.bom.gov.au/World_Data_Centre/2/1/16</Description>
+      <ReleaseDate>2017-07-06T17:20:00Z</ReleaseDate>
+      <Description>i
+    The Auckland Ionosonde station near Auckland, New Zealand, had a IPS 4D digital Ionosonde between 1992 and 1998, after a IPS-42 ionosonde was in operation between 1983 and 1994(perhaps). The Auckland hourly scaled data and median data of foF2 and M(3000)F2 are available since 01/1967 to 12/1978. However, no Ionosonde information between 1967 and 1978 is available. 
+      </Description>
       <Contact>
         <PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
         <Role>GeneralContact</Role>
