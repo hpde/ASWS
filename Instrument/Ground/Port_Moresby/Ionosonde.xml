@@ -6,7 +6,7 @@
       <ResourceName>Port Moresby Ionosonde</ResourceName>
       <ReleaseDate>2017-07-28T17:20:00Z</ReleaseDate>
       <Description>i
-    The Port Moresby Ionosonde station near Port Moresby, Papua New Guinea, had a IPS 4D digital Ionosonde between 1994 and 2007. The Port Moresby hourly scaled data and median data of foF2 and M(3000)F2 are available since 17/05/1961 to 12/07/2007. However, no Ionosonde information between 1961 and 1994 is available. 
+    The Port Moresby Ionosonde station near Port Moresby, Papua New Guinea, had ionosondes since 1961. According to the SWS archived scaled ionospheric data book, the first one was an IPS 3C (IIIc) since 17/05/1961 to 31/07/72. According to the SWS archived Weekly Station Summary, there was an IPS 4A in 1981 and 1982, but no data was available. There was no ionosonde data between 08/1972 and 12/1993. Between 13/10/1994 and 31/03/2007, there was an IPS 4D digital Ionosonde. The Port Moresby hourly scaled data and median data of foF2 and M(3000)F2 are available since 17/05/1961 to 12/07/2007.
       </Description>
       <Contact>
         <PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>

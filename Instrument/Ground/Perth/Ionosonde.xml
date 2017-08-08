@@ -5,7 +5,8 @@
     <ResourceHeader>
       <ResourceName>Perth Ionosonde</ResourceName>
       <ReleaseDate>2017-07-06T17:20:00Z</ReleaseDate>
-      <Description>The Perth Ionosonde station in Perth, WA, Australia, has a IPS 5D digital Ionosonde since October of 2010. The IPS 5D vertical sounding ionosondes normally sweep in frequency from about 1 to 21.5 MHz. Frequency step resolution for the 5D is 5kHz, with up to 4095 steps available. The step interval is variable, becoming more coarse at higher frequencies as ionograms are generally displayed on a logarithmic scale.  See details at http://www.sws.bom.gov.au/World_Data_Centre/2/1/30</Description>
+      <Description>The Perth Ionosonde station in Perth, WA, Australia, has a IPS 5D digital Ionosonde since October of 2010. The IPS 5D vertical sounding ionosondes normally sweep in frequency from about 1 to 21.5 MHz. Frequency step resolution for the 5D is 5kHz, with up to 4095 steps available. The step interval is variable, becoming more coarse at higher frequencies as ionograms are generally displayed on a logarithmic scale.
+      </Description>
       <Contact>
         <PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
         <Role>GeneralContact</Role>

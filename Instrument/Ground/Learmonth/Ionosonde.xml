@@ -5,7 +5,8 @@
     <ResourceHeader>
       <ResourceName>Learmonth Ionosonde</ResourceName>
       <ReleaseDate>2017-07-05T17:20:00Z</ReleaseDate>
-      <Description>The Learmonth Ionosonde station near Learmonth, WA, Australia, has a digital Ionosonde since July of 1994. They are Lowell ionosonde between 07/11994 and 12/2009 and IPS 5D since March 2011 to now. The IPS 5D vertical sounding ionosondes normally sweep in frequency from about 1 to 21.5 MHz. Frequency step resolution for the 5D is 5kHz, with up to 4095 steps available. The step interval is variable, becoming more coarse at higher frequencies as ionograms are generally displayed on a logarithmic scale.  See details at http://www.sws.bom.gov.au/World_Data_Centre/2/1/21</Description>
+      <Description>The Learmonth Ionosonde station situated in Learmonth Solar Observatory, WA, Australia, has digital Ionosondes since July of 1994. The first was a Lowell ionosonde since 27/07/1994 to 06/12/2009. An IPS 5D since 26 March 2011 to now. The IPS 5D vertical sounding ionosondes normally sweep in frequency from about 1 to 21.5 MHz. Frequency step resolution for the 5D is 5kHz, with up to 4095 steps available. The step interval is variable, becoming more coarse at higher frequencies as ionograms are generally displayed on a logarithmic scale. 
+      </Description>
       <Contact>
         <PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
         <Role>GeneralContact</Role>
