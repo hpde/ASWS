@@ -5,7 +5,7 @@
     <ResourceHeader>
       <ResourceName>Davis Ionosonde</ResourceName>
       <ReleaseDate>2017-07-05T17:20:00Z</ReleaseDate>
-      <Description>The Davis Ionosonde station in Davis, Antarctica, has ionosondes since 1985. According to the SWS archived Weekly Station Summary, the first one was IPS 4A ionosonde with 16mm film since 14/03/1985. There was an IPS 4D between 02/06/1994 and 07/01/2000, IPS 5D between 07/02/2000 and 01/12/2001 and Lowell digisonde since 18 December 2001 to now. The Lowell Digisonde-Portable-Sounder-4D (DPS4D) vertical sounding ionosondes normally sweep in frequency from about 0.5 to 30 MHz. Frequency step is selectable to 1kHz. The step interval is variable, becoming more coarse at higher frequencies as ionograms are generally displayed on a logarithmic scale. </Description>
+      <Description>The Davis Ionosonde station in Davis, Antarctica, has ionosondes since 1985. According to the SWS archived Weekly Station Summary, the first one was IPS 4A ionosonde with 16mm film since 14/03/1985. There was an IPS 4D between 02/06/1994 and 07/01/2000, and an IPS 5D between 07/02/2000 and 01/12/2001. There is a Lowell digisonde since 18 December 2001 to now. The Lowell Digisonde-Portable-Sounder-4D (DPS4D) vertical sounding ionosonde normally sweeps in frequency from about 0.5 to 30 MHz. Frequency step is selectable to 1kHz. The step interval is variable, becoming more coarse at higher frequencies as ionograms are generally displayed on a logarithmic scale. </Description>
       <Contact>
         <PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
         <Role>GeneralContact</Role>
