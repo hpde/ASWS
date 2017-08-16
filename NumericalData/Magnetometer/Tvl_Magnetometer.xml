@@ -23,7 +23,7 @@
         <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/2</URL>
         <Description>includes browse display interface, button to get daily data file and link to data availability chart</Description>
         <Language>en</Language>
-      /InformationURL>
+      </InformationURL>
       <InformationURL>
         <Name>Documentation</Name>
         <URL>http://www.sws.bom.gov.au/World_Data_Centre/2/3/</URL>
