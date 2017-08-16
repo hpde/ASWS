@@ -54,7 +54,7 @@
     <TemporalDescription>
       <TimeSpan>
         <StartDate>2003-02-01T00:00:00Z</StartDate>
-        <StopDate>2005-1-31T00:00:00Z</StartDate>
+        <StopDate>2005-1-31T00:00:00Z</StopDate>
         <RelativeStopDate>-P1D</RelativeStopDate>
         <Note>The earliest magnetometer data since 01/02/2003.</Note>
       </TimeSpan>
