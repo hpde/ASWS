@@ -77,8 +77,8 @@
       <Caveats/>
       <Cadence>PT10S</Cadence>
       <Units>DU</Units>
-	  <ValidMin>-2000</ValidMin>
-	  <ValidMax>2000</ValidMax>
+	  <ValidMin>-2047</ValidMin>
+	  <ValidMax>2047</ValidMax>
 	  <Field>
 	    <FieldQuantity>Electromagnetic</FieldQuantity>
 	  </Field>
@@ -89,8 +89,8 @@
       <Caveats/>
       <Cadence>PT10S</Cadence>
       <Units>DU</Units>
-	  <ValidMin>-2000</ValidMin>
-	  <ValidMax>2000</ValidMax>
+	  <ValidMin>-2047</ValidMin>
+	  <ValidMax>2047</ValidMax>
 	  <Field>
 	    <FieldQuantity>Electromagnetic</FieldQuantity>
 	  </Field>
