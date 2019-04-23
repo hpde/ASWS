@@ -5,7 +5,7 @@
     <ResourceHeader>
       <ResourceName>Australian Space Weather Services Port Moresby Ionogram</ResourceName>
       <AlternateName/>
-      <ReleaseDate>2017-07-27T17:00:00Z</ReleaseDate>
+      <ReleaseDate>2019-04-23T12:34:56.789Z</ReleaseDate>
       <Description> An Ionogram is an image of frequency versus time delay (virtual height) of HF echoes from the ionosphere recorded by an ionosonde. An ionosonde is a swept frequency HF pulsed radar used to monitor the ionosphere. SWS WDC haschived ionogram data from 26 stations, 12 of them still active at present. An IPS 4D ionosonde had been sounding between 01/01/1994 and 12/07/2007 at Port Moresby. The 4D vertical sounding ionosondes normally sweep in frequency from about 1 to 21.5 MHz. Frequency step resolution for the 4D is 5kHz, with up to 4095 steps available. The step interval is variable, becoming more coarse at higher frequencies as ionograms are generally displayed on a logarithmic scale. Every five minutes, a Ionogram data file is recorded. The raw ionogram file is recorded in a DVD monthly, which will be posted to Sydney SWS head office every month for scaling and further analysis. SWS WDC archives all raw ionogram files and cleaned ionogram files. The Port Moresby digital clean ionogram data is available since 01/01/1994 to 12/07/2007. The Port Moresby scaled hourly ionospheric data include parameters of foF2, foF1, FoE, foEs, fbEs, fmin, fxl, f'scaling F/s, M(3000)F2, h'F2, h'F, h'E, h'Es, h'Scaling R/S and Type Es. They are avalable since 02/06/1961 to 12/07/2007. The Port Moresby median data of foF2 and M(3000)F2 are available since 06/1961 to 07/2007.
       </Description>
       <Acknowledgement>We thankful to the former IPS Space and Radio Services, Bureau of Meteorology of Australia for the observations of Port Moresby ionogram data.</Acknowledgement>
@@ -57,7 +57,7 @@
       <Acknowledgement/>
     </AccessInformation>
  <ProviderProcessingLevel>The original ionogram data are raw data, theye then cleaned by reducing noise signals at the station. The manually scaled data is calibrated and the autoscaled data is uncalibrated.</ProviderProcessingLevel> 
-    <InstrumentID>spase://ASWS/Instrument/Ground/Port Moresby/Ionosonde</InstrumentID>
+    <InstrumentID>spase://ASWS/Instrument/Ground/Port_Moresby/Ionosonde</InstrumentID>
     <MeasurementType>Waves.Active</MeasurementType>
     <TemporalDescription>
       <TimeSpan>
