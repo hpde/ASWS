@@ -5,7 +5,7 @@
 		<ResourceHeader>
 			<ResourceName>Tennant Creek</ResourceName>
 			<AlternateName>None</AlternateName>
-  			<ReleaseDate>2017-07-24T12:34:56.789</ReleaseDate>
+  			<ReleaseDate>2019-04-30T18:08:54Z</ReleaseDate>
 			<Description>Tennant Creek station is located in Tennant Creek, NT. It has an ionosonde in operation from May 1985 to November 1985.
 			</Description>
 			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
@@ -24,9 +24,7 @@
        				<Description>includes observatory/station name, location, lifetime, identity and datasets informtion.</Description>
        				<Language>en</Language>
       			</InformationURL>
-			<PriorID/>
 		</ResourceHeader>
-		<ObservatoryGroupID/>
 		<Location>
 			<ObservatoryRegion>Earth.Surface</ObservatoryRegion>
 			<Latitude>-19.65</Latitude>

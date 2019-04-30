@@ -5,7 +5,7 @@
 		<ResourceHeader>
 			<ResourceName>Brisbane</ResourceName>
 			<AlternateName>Bribie Island</AlternateName>
-  			<ReleaseDate>2017-06-28T12:34:56.789</ReleaseDate>
+  			<ReleaseDate>2019-04-30T18:08:54Z</ReleaseDate>
 			<Description>Brisbane station is located on Bribie Island, QLD. It has been in operation since June 1943. </Description>
 			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
 			<Contact>
@@ -23,9 +23,7 @@
         		     	<Description>includes observatory/station name, location, lifetime, identity and datasets informtion.</Description>
         		     	<Language>en</Language>
       			</InformationURL>
-			<PriorID/>
 		</ResourceHeader>
-		<ObservatoryGroupID/>
 		<Location>
 			<ObservatoryRegion>Earth.Surface</ObservatoryRegion>
 			<Latitude>-27.53</Latitude>

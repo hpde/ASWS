@@ -5,7 +5,7 @@
 		<ResourceHeader>
 			<ResourceName>Salisbury</ResourceName>
 			<AlternateName>None</AlternateName>
-  			<ReleaseDate>2017-07-24T12:34:56.789</ReleaseDate>
+  			<ReleaseDate>2019-04-30T18:08:54Z</ReleaseDate>
 			<Description>Salisbury station is located on Salisbury, SA. It has had an ionosonde in operation from June 1960 to December 1973 and from January 1983 to April 1989.</Description>
 			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
 			<Contact>
@@ -23,9 +23,7 @@
        				<Description>includes observatory/station name, location, lifetime, identity and datasets informtion.</Description>
        				<Language>en</Language>
       			</InformationURL>
-			<PriorID/>
 		</ResourceHeader>
-		<ObservatoryGroupID/>
 		<Location>
 			<ObservatoryRegion>Earth.Surface</ObservatoryRegion>
 			<Latitude>-34.70</Latitude>

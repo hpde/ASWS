@@ -5,7 +5,7 @@
 		<ResourceHeader>
 			<ResourceName>Launceston</ResourceName>
 			<AlternateName>None</AlternateName>
-  			<ReleaseDate>2017-07-21T12:34:56.789</ReleaseDate>
+  			<ReleaseDate>2019-04-30T18:08:54Z</ReleaseDate>
 			<Description>Launceston station is located on Launceston, Tasmania Island. It has been in operation since June 2013.</Description>
 			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
 			<Contact>
@@ -23,9 +23,7 @@
        				<Description>includes observatory/station name, location, lifetime, identity and datasets informtion.</Description>
        				<Language>en</Language>
       			</InformationURL>
-			<PriorID/>
 		</ResourceHeader>
-		<ObservatoryGroupID/>
 		<Location>
 			<ObservatoryRegion>Earth.Surface</ObservatoryRegion>
 			<Latitude>-41.55</Latitude>

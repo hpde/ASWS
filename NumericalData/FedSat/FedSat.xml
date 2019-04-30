@@ -5,7 +5,7 @@
     <ResourceHeader>
       <ResourceName>Australian Federation Satellite FedSat data</ResourceName>
       <AlternateName/>
-      <ReleaseDate>2017-07-25T17:00:00Z</ReleaseDate>
+      <ReleaseDate>2019-04-30T18:08:54Z</ReleaseDate>
       <Description>
       FEDSAT is a Low Earth Orbit (LEO) micro-satellite built by the Australian Cooperative Research Centre for Satellite Systems (CRCSS). The satellite was launched from Tanegashima Space Centre on 14 December 2002 into a 10:30 Local Time sun-synchronous polar orbit at just over 800km altitude. Onboard the satellite carries a range of scientific and engineering payloads, one of which is the NEWMAG triaxial (vector) magnetometer.
 
@@ -49,7 +49,7 @@
       <Acknowledgement/>
     </AccessInformation>
 	<ProviderProcessingLevel>The original data are raw data and are uncalibrated.</ProviderProcessingLevel>  
-    <InstrumentID>spase://ASWS/Instrument/Satellite/FedSat/FedSat</InstrumentID>
+    <InstrumentID>spase://ASWS/Instrument/Satellite/FedSat/NewMag</InstrumentID>
     <MeasurementType>Waves.Passive</MeasurementType>
     <TemporalDescription>
       <TimeSpan>

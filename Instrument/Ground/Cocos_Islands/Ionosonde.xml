@@ -14,6 +14,6 @@
       </ResourceHeader>
       <InstrumentType>Ionosonde</InstrumentType>
       <InvestigationName>Cocos Islands Ionosonde</InvestigationName>
-      <ObservatoryID>spase://ASWS/Observatory/Ground/Cocosi_Islands</ObservatoryID>
+      <ObservatoryID>spase://ASWS/Observatory/Ground/Cocos_Islands</ObservatoryID>
    </Instrument>
 </Spase>

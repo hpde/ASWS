@@ -5,7 +5,7 @@
 		<ResourceHeader>
 			<ResourceName>FedSat</ResourceName>
 			<AlternateName>Australia's 'Federation Satellite'</AlternateName>
-  			<ReleaseDate>2017-07-25T12:34:56.789</ReleaseDate>
+  			<ReleaseDate>2019-04-30T18:08:54Z</ReleaseDate>
 			<Description>
 			FedSat (Australia's 'Federation Satellite') is an Australian scientific research satellite launched from Tanegashima Space Center, Japan by a NASDA H-IIA launch vehicle in December 2002 (NASDA is now merged with JAXA). The satellite was developed by the Cooperative Research Centre for Satellite Systems, a cooperative made up of several universities, commercial organisations and government bodies. The ground station is at the Institute for Telecommunications Research, part of the University of South Australia, near Adelaide. Since 2005 it was operated by the Australian Department of Defence.
 
@@ -38,9 +38,7 @@
        				<Description>includes FedSat Satellite informtion.</Description>
        				<Language>en</Language>
       			</InformationURL>
-			<PriorID/>
 		</ResourceHeader>
-		<ObservatoryGroupID/>
 		<Location>
 			<ObservatoryRegion>Earth.Magnetosphere</ObservatoryRegion>
 		</Location>

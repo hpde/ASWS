@@ -5,7 +5,7 @@
 		<ResourceHeader>
 			<ResourceName>Learmonth</ResourceName>
 			<AlternateName>None</AlternateName>
-  			<ReleaseDate>2017-07-03T12:34:56.789</ReleaseDate>
+  			<ReleaseDate>2019-04-30T18:08:54Z</ReleaseDate>
 			<Description>Learmonth station is located on Learmonth, WA. It has been in operation since April 1979.</Description>
 			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
 			<Contact>
@@ -29,9 +29,7 @@
        				<Description>includes Learmonth Solar Observatory Overview and more details informtion.</Description>
        				<Language>en</Language>
       			</InformationURL>
-			<PriorID/>
 		</ResourceHeader>
-		<ObservatoryGroupID/>
 		<Location>
 			<ObservatoryRegion>Earth.Surface</ObservatoryRegion>
 			<Latitude>-22.25</Latitude>

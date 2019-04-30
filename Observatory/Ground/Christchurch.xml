@@ -5,7 +5,7 @@
 		<ResourceHeader>
 			<ResourceName>Christchurch</ResourceName>
 			<AlternateName>Godley Head (actually a different nearby location)</AlternateName>
-  			<ReleaseDate>2017-07-24T12:34:56.789</ReleaseDate>
+  			<ReleaseDate>2019-04-30T18:08:54Z</ReleaseDate>
 			<Description>Christchurch station is located in Christchurch, South Island, New Zealand. It has been in operation from October 1937. The Physics and Astronomy Department of the Univsersity of Canterbury used to operate an ionosonde at both Eyrewell (about 30km northwest of Christchurch ) and at Scott Base in the Antarctic. The ionosonde programme was taken over by the Department after the disestablishment of the DSIR in the late 1980’s.  
 
 			Unfortunately the LandCorp site at Eyrewell was converted to a large diary farm in early 2014 shortly after the instrument had been replaced with a state of the art CADI system. Once a new site is secured it is envisaged that New Zealand will again have a ground based method of detemining the local ionospheric conditions essential for some remote search and rescue missions. Currently the closest ionosonde is in Australia leaving all of NZ, and it's vast surrounding oceans reliant on model output.
@@ -32,9 +32,7 @@
        				<Description>includes observatory/station name, location, lifetime, identity and datasets informtion.</Description>
        				<Language>en</Language>
       			</InformationURL>
-			<PriorID/>
 		</ResourceHeader>
-		<ObservatoryGroupID/>
 		<Location>
 			<ObservatoryRegion>Earth.Surface</ObservatoryRegion>
 			<Latitude>-43.60</Latitude>
