@@ -1,11 +1,11 @@
-<Spase ="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_3.xsd">
+<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_3.xsd">
 	<Version>2.2.3</Version>
 	<Observatory>
 		<ResourceID>spase://ASWS/Observatory/Ground/Niue</ResourceID>
 		<ResourceHeader>
 			<ResourceName>Niue</ResourceName>
 			<AlternateName>None</AlternateName>
-  			<ReleaseDate>2017-07-03T12:34:56.789</ReleaseDate>
+  			<ReleaseDate>2019-04-30T18:08:54Z</ReleaseDate>
 			<Description>Niue station is located on Niue Island. It has been in operation since October 2004.</Description>
 			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
 			<Contact>
@@ -17,9 +17,13 @@
 				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
 				<Role>MetadataContact</Role>
 			</Contact>
-			<PriorID/>
+                	<InformationURL>
+                  		<Name>ASWS Observatory Information: Niue</Name>
+        		     	<URL>http://www.sws.bom.gov.au/World_Data_Centre/2/1/18</URL>
+       				<Description>includes observatory/station name, location, lifetime, identity and datasets informtion.</Description>
+       				<Language>en</Language>
+      			</InformationURL>
 		</ResourceHeader>
-		<ObservatoryGroupID/>
 		<Location>
 			<ObservatoryRegion>Earth.Surface</ObservatoryRegion>
 			<Latitude>-19.07</Latitude>

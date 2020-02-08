@@ -5,7 +5,7 @@
 		<ResourceHeader>
 			<ResourceName>Auckland</ResourceName>
 			<AlternateName>None</AlternateName>
-  			<ReleaseDate>2017-07-03T12:34:56.789</ReleaseDate>
+  			<ReleaseDate>2019-04-30T18:08:54Z</ReleaseDate>
 			<Description>Auckland station is located on Auckland, New Zealand. It had been in operation betweeen December 1967 and March 1998.</Description>
 			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
 			<Contact>
@@ -17,9 +17,13 @@
 				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
 				<Role>MetadataContact</Role>
 			</Contact>
-			<PriorID/>
-		</ResourceHeader>
-		<ObservatoryGroupID/>
+               		<InformationURL>
+                  		<Name>ASWS Observatory Information: Auckland</Name>
+       				<URL>http://www.sws.bom.gov.au/World_Data_Centre/2/1/16</URL>
+       				<Description>includes observatory/station name, location, lifetime, identity and datasets informtion.</Description>
+       				<Language>en</Language>
+      			</InformationURL>			
+		</ResourceHeader>		
 		<Location>
 			<ObservatoryRegion>Earth.Surface</ObservatoryRegion>
 			<Latitude>-37.00</Latitude>

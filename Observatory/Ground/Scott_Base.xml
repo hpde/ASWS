@@ -5,7 +5,7 @@
 		<ResourceHeader>
 			<ResourceName>Scott_Base</ResourceName>
 			<AlternateName>None</AlternateName>
-  			<ReleaseDate>2017-07-03T12:34:56.789</ReleaseDate>
+  			<ReleaseDate>2019-04-30T18:08:54Z</ReleaseDate>
 			<Description>Scott_Base station is located on Scott_Base, Antarctica. It has been in operation since January 1958.</Description>
 			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
 			<Contact>
@@ -17,9 +17,13 @@
 				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
 				<Role>MetadataContact</Role>
 			</Contact>
-			<PriorID/>
+                	<InformationURL>
+                  		<Name>ASWS Observatory Information: Scott Base</Name>
+        		     	<URL>http://www.sws.bom.gov.au/World_Data_Centre/2/1/25</URL>
+       				<Description>includes observatory/station name, location, lifetime, identity and datasets informtion.</Description>
+       				<Language>en</Language>
+      			</InformationURL>
 		</ResourceHeader>
-		<ObservatoryGroupID/>
 		<Location>
 			<ObservatoryRegion>Earth.Surface</ObservatoryRegion>
 			<Latitude>-77.80</Latitude>
