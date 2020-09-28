@@ -5,17 +5,17 @@
 		<ResourceHeader>
 			<ResourceName>Culgoora</ResourceName>
 			<AlternateName>Narrabri (although not used with data reports)</AlternateName>
-  			<ReleaseDate>2019-04-30T18:08:54Z</ReleaseDate>
+  			<ReleaseDate>2020-09-28T18:31:52Z</ReleaseDate>
 			<Description>Culgoora station is located in Narrabri, NSW. It has been in operation since 1965. See details at
 			http://www.sws.bom.gov.au/Solar/2/2</Description>
 			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
 			<Contact>
-				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
+				<PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
 				<Role>GeneralContact</Role>
 				<Role>DataProducer</Role>
 			</Contact>
 			<Contact>
-				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
+				<PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
 				<Role>MetadataContact</Role>
 			</Contact>
                 	<InformationURL>

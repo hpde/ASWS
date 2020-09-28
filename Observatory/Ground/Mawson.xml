@@ -5,16 +5,16 @@
 		<ResourceHeader>
 			<ResourceName>Mawson</ResourceName>
 			<AlternateName>None</AlternateName>
-  			<ReleaseDate>2019-04-30T18:08:54Z</ReleaseDate>
+  			<ReleaseDate>2020-09-28T18:31:52Z</ReleaseDate>
 			<Description>Mawson station is located on Mawson, Antarctica. It has been in operation since February 1958.</Description>
 			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
 			<Contact>
-				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
+				<PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
 				<Role>GeneralContact</Role>
 				<Role>DataProducer</Role>
 			</Contact>
 			<Contact>
-				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
+				<PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
 				<Role>MetadataContact</Role>
 			</Contact>
                 	<InformationURL>

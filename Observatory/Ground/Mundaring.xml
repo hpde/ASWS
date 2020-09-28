@@ -5,16 +5,16 @@
 		<ResourceHeader>
 			<ResourceName>Mundaring</ResourceName>
 			<AlternateName>Watheroo (an earlier, nearby site)</AlternateName>
-  			<ReleaseDate>2019-04-30T18:08:54Z</ReleaseDate>
+  			<ReleaseDate>2020-09-28T18:31:52Z</ReleaseDate>
 			<Description>Mundaring station is located on Mundaring, WA. It has had an ionosonde in operation from April 1959 to 23 December 2007.</Description>
 			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
 			<Contact>
-				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
+				<PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
 				<Role>GeneralContact</Role>
 				<Role>DataProducer</Role>
 			</Contact>
 			<Contact>
-				<PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
+				<PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
 				<Role>MetadataContact</Role>
 			</Contact>
                 	<InformationURL>

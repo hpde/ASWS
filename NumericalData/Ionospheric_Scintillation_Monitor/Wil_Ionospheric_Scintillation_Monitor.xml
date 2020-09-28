@@ -5,17 +5,17 @@
     <ResourceHeader>
       <ResourceName>Australian Space Weather Services Willis Island Ionospheric Scintillation Monitor</ResourceName>
       <AlternateName/>
-      <ReleaseDate>2019-04-23T12:34:56.789Z</ReleaseDate>
+      <ReleaseDate>2020-09-28T18:31:52Z</ReleaseDate>
       <Description>
 	  Ionospheric scintillation is a rapid fluctuation of radio-frequency signal phase and/or amplitude, generated as a signal passes through the ionosphere. Scintillation occurs when a radio frequency signal in the form of a plane wave traverses a region of small scale irregularities in electron density. The irregularities cause small-scale fluctuations in refractive index and subsequent differential diffraction (scattering) of the plane wave producing phase variations along the phase front of the signal. As the signal propagation continues after passing through the region of irregularities, phase and amplitude scintillation develops through interference of multiple scattered signals. The Ionospheric Scintillation Monitor in Willis Island was installed in 11/12/2010 and still works now. 
       </Description>
       <Acknowledgement>We are thankful to the Space Weather Network, Bureau of Meteorology of Australia for the observations of Willis Island Ionospheric Scintillation Monitor data.</Acknowledgement>
       <Contact>
-        <PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
+        <PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
         <Role>GeneralContact</Role>
       </Contact>
       <Contact> 
-        <PersonID>spase://SMWG/Person/Kehe.Wang</PersonID>
+        <PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
         <Role>MetadataContact</Role>
       </Contact>
       <InformationURL>
