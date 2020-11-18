@@ -5,7 +5,7 @@
 		<ResourceHeader>
 			<ResourceName>Casey</ResourceName>
 			<AlternateName>None</AlternateName>
-  			<ReleaseDate>2020-09-28T18:31:52Z</ReleaseDate>
+  			<ReleaseDate>2020-11-13T20:35:01Z</ReleaseDate>
 			<Description>Casey station is located on Casey, Antarctica. It has been in operation since July 1957.</Description>
 			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
 			<Contact>
@@ -23,6 +23,8 @@
         		     	<Description>includes observatory/station name, location, lifetime, identity and datasets informtion.</Description>
         		     	<Language>en</Language>
       			</InformationURL>
+                        <PriorID>spase://SMWG/Observatory/Ground/Casey</PriorID>
+                        <PriorID>spase://SMWG/Observatory/WDC/Casey</PriorID>
 		</ResourceHeader>
 		<Location>
 			<ObservatoryRegion>Earth.Surface</ObservatoryRegion>

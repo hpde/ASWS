@@ -5,7 +5,7 @@
 		<ResourceHeader>
 			<ResourceName>Alice Springs</ResourceName>
 			<AlternateName>None</AlternateName>
-  			<ReleaseDate>2020-09-28T18:31:52Z</ReleaseDate>
+  			<ReleaseDate>2020-11-13T20:35:01Z</ReleaseDate>
 			<Description>Alice Springs station is located in Alice Springs, NT. It has been in operation from May of 1985 to November 1985.</Description>
 			<Acknowledgement>Please acknowledge: Space Weather Network, Bureau of Meteorology, Australia</Acknowledgement>
 			<Contact>
@@ -23,6 +23,8 @@
        				<Description>includes observatory/station name, location, lifetime, identity and datasets informtion.</Description>
        				<Language>en</Language>
       			</InformationURL>
+                       <PriorID>spase://SMWG/Observatory/Ground/Alice.Springs</PriorID>
+                       <PriorID>spase://SMWG/Observatory/WDC/Alice.Springs</PriorID>
 		</ResourceHeader>
 		<Location>
 			<ObservatoryRegion>Earth.Surface</ObservatoryRegion>

@@ -4,7 +4,7 @@
     <ResourceID>spase://ASWS/Instrument/Ground/Casey/Magnetometer</ResourceID>
     <ResourceHeader>
       <ResourceName>Casey Magnetometer</ResourceName>
-      <ReleaseDate>2017-07-20T17:20:00Z</ReleaseDate>
+      <ReleaseDate>2020-11-13T20:35:01Z</ReleaseDate>
       <Description>The Casey Magnetometer station in Casey, Antarctica, has two digital Magnetometers since August 2000. 
       
       16 August, 2000
@@ -36,6 +36,8 @@
 	<Description>includes Casey magnetometer log file.</Description>
 	<Language>en</Language>
       </InformationURL>
+      <PriorID>spase://SMWG/Instrument/Ground/Casey/Magnetometer</PriorID>
+      <PriorID>spase://SMWG/Instrument/IAGA/Casey/Magnetometer</PriorID>
     </ResourceHeader>
     <InstrumentType>Magnetometer</InstrumentType>
     <InvestigationName>Casey Magnetometer</InvestigationName>

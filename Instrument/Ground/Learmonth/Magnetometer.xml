@@ -4,7 +4,7 @@
     <ResourceID>spase://ASWS/Instrument/Ground/Learmonth/Magnetometer</ResourceID>
     <ResourceHeader>
       <ResourceName>Learmonth Magnetometer</ResourceName>
-      <ReleaseDate>2017-07-20T17:20:00Z</ReleaseDate>
+      <ReleaseDate>2020-11-13T20:35:01Z</ReleaseDate>
       <Description>The Learmonth Magnetometer station in Learmonth, WA, Australia, has a digital Magnetometer since March 1995. Up to today, there are four magnetometers monitored or still are monitoring in the staion. According to the station log files.
 
 March 1995
@@ -52,6 +52,8 @@ For more information, please read its log file.
 	<Description>includes Learmonth magnetometer log file.</Description>
 	<Language>en</Language>
       </InformationURL>
+      <PriorID>spase://SMWG/Instrument/Ground/Learmonth/Magnetometer</PriorID>
+      <PriorID>spase://SMWG/Instrument/IAGA/Learmonth/Magnetometer</PriorID>
     </ResourceHeader>
     <InstrumentType>Magnetometer</InstrumentType>
     <InvestigationName>Learmonth Magnetometer</InvestigationName>

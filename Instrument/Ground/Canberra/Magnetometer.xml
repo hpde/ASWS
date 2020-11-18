@@ -4,7 +4,7 @@
     <ResourceID>spase://ASWS/Instrument/Ground/Canberra/Magnetometer</ResourceID>
     <ResourceHeader>
       <ResourceName>Canberra Magnetometer</ResourceName>
-      <ReleaseDate>2017-07-21T17:20:00Z</ReleaseDate>
+      <ReleaseDate>2020-11-13T20:35:01Z</ReleaseDate>
       <Description>The Canberra Magnetometer station in Canberra, ACT, Australia, has a Magnetometer since April 1997. 
       
       April, 1997
@@ -26,6 +26,8 @@
 	<Description>includes Canberra magnetometer log file.</Description>
 	<Language>en</Language>
       </InformationURL>
+      <PriorID>spase://SMWG/Instrument/Ground/Canberra/Magnetometer</PriorID>
+      <PriorID>spase://SMWG/Instrument/IAGA/Canberra/Magnetometer</PriorID>
     </ResourceHeader>
     <InstrumentType>Magnetometer</InstrumentType>
     <InvestigationName>Canberra Magnetometer</InvestigationName>
