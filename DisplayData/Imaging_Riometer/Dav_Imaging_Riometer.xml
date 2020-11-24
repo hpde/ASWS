@@ -26,23 +26,23 @@ And a further note explains that: &#34;Despite efforts by the AADC to obtain dat
             <PersonID>spase://SMWG/Person/Lee.Frost.Bargatze</PersonID>
             <Role>MetadataContact</Role>
          </Contact>
-         <InformationURL>
-            <Name>World Data Centre: Data Display and Download</Name>
-            <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/6</URL>
-            <Description>includes browse display interface, and link to data availability chart</Description>
-            <Language>en</Language>
-         </InformationURL>
-         <InformationURL>
-            <Name>Documentation</Name>
-            <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/6/2</URL>
-            <Description>includes information about The Southern Hemisphere Imaging Riometer Experiment (SHIRE), an IRIS imaging riometer system.</Description>
-            <Language>en</Language>
-         </InformationURL>
       </ResourceHeader>
       <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/SWS</RepositoryID>
          <Availability>Online</Availability>
          <AccessRights>Open</AccessRights>
+         <AccessURL>
+            <Name>World Data Centre: Data Display and Download</Name>
+            <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/6</URL>
+            <Description>includes browse display interface, and link to data availability chart</Description>
+            <Language>en</Language>
+         </AccessURL>
+         <AccessURL>
+            <Name>Documentation</Name>
+            <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/6/2</URL>
+            <Description>includes information about The Southern Hemisphere Imaging Riometer Experiment (SHIRE), an IRIS imaging riometer system.</Description>
+            <Language>en</Language>
+         </AccessURL>
          <AccessURL>
             <Name>Access to Imaging Riometer</Name>
             <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/6/3</URL>
