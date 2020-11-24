@@ -1,5 +1,5 @@
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_3.xsd">
-<Version>2.2.3</Version>
+<Version>2.3.2</Version>
   <DisplayData>
     <ResourceID>spase://ASWS/DisplayData/Spectrograph/Lem_Spectrograph</ResourceID>
     <ResourceHeader>
@@ -20,38 +20,44 @@ and Learmonth has 2 bands: 25-75, 75-180 MHz. The two Learmonth bands are each d
         <PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
         <Role>MetadataContact</Role>
       </Contact>
-      <InformationURL>
-        <Name>World Data Centre: Data Display and Download </Name>
-        <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/9</URL>
-        <Description>includes browse display interface, and link to data availability chart</Description>
-        <Language>en</Language>
-      </InformationURL>
-      <InformationURL>
-        <Name>Documentation</Name>
-        <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_spec/doc/</URL>
-        <Description>includes descriptions of Observation Log format, data format</Description>
-        <Language>en</Language>
-      </InformationURL>
-      <InformationURL>
-        <Name>Software</Name>
-        <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_tools/solar_viewers/spectrograph/</URL>
-        <Description></Description>
-        <Language>en</Language>
-      </InformationURL>
-      <InformationURL>
-        <Name>Real Time Display</Name>
-        <URL>http://www.sws.bom.gov.au/Solar/3/2/1</URL>
-        <Description>Real Time display of spectrograph (18-180 MHz) during daylight hours in Learmonth</Description>
-        <Language>en</Language>
-      </InformationURL>
+      
     </ResourceHeader>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/SWS</RepositoryID>
       <Availability>Online</Availability>
       <AccessRights>Open</AccessRights>
       <AccessURL>
+        <Name>World Data Centre: Spectrograph Data Display and Download </Name>
+        <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/9</URL>
+	<Style>Search</Style>      
+        <Description>includes browse display interface, and link to data availability chart</Description>
+        <Language>en</Language>
+      </AccessURL>
+      <AccessURL>
+        <Name>Documentation</Name>
+        <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_spec/doc/</URL>
+	<Style>Listing</Style>      
+        <Description>includes descriptions of Observation Log format, data format</Description>
+        <Language>en</Language>
+      </AccessURL>
+      <AccessURL>
+        <Name>Software</Name>
+        <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_tools/solar_viewers/spectrograph/</URL>
+	<Style>Listing</Style>        
+        <Description></Description>
+        <Language>en</Language>
+      </AccessURL>
+      <AccessURL>
+        <Name>Real Time Display</Name>
+        <URL>http://www.sws.bom.gov.au/Solar/3/2/1</URL>
+	<Style>File</Style>        
+        <Description>Real Time display of spectrograph (18-180 MHz) during daylight hours in Learmonth</Description>
+        <Language>en</Language>
+      </AccessURL>   
+      <AccessURL>
         <Name>FTP access to dynamic spectra plots</Name>
-           <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_spec/</URL>
+        <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_spec/</URL>
+	<Style>Listing</Style>  
         <Description>FTP access to the GIF images, thumbnails, event logs and raw data files</Description>
         <Language>en</Language>
       </AccessURL>
