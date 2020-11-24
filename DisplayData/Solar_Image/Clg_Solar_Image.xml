@@ -24,29 +24,34 @@
          <AccessURL>
             <Name>Documentation</Name>
             <URL>http://www.sws.bom.gov.au/Solar/6/1</URL>
+            <Style>File</Style>
             <Description>includes solar activity and solar image information</Description>
             <Language>en</Language>
          </AccessURL>
          <AccessURL>
             <Name>Sun and Solar Activity</Name>
             <URL>http://www.sws.bom.gov.au/Educational/2/1</URL>
+            <Style>File</Style>
             <Language>en</Language>
          </AccessURL>
          <AccessURL>
             <Name>Real Time H-Alpha Image Display</Name>
             <URL>http://www.sws.bom.gov.au/Solar/2/4</URL>
+            <Style>File</Style>
             <Description>Real Time display of H-Alpha solar images recorded at Culgoora</Description>
             <Language>en</Language>
          </AccessURL>
          <AccessURL>
             <Name>Real Time White Light Image Display</Name>
             <URL>http://www.sws.bom.gov.au/Solar/2/6</URL>
+            <Style>File</Style>
             <Description>Real Time display of White Light solar images recorded at Culgoora</Description>
             <Language>en</Language>
          </AccessURL>
          <AccessURL>
             <Name>FTP access to Solar Images</Name>
             <URL>ftp://ftp-out.sws.bom.gov.au/wdc/wdc_sol_archive/data/culgoora/</URL>
+            <Style>Listing</Style>
             <Description>FTP access to the Culgoora H-Alpha and White Light solar image data files</Description>
             <Language>en</Language>
          </AccessURL>
