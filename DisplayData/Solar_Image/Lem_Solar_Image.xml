@@ -1,5 +1,5 @@
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_3.xsd">
-   <Version>2.2.3</Version>
+   <Version>2.3.2</Version>
    <DisplayData>
       <ResourceID>spase://ASWS/DisplayData/Solar_Image/Lem_Solar_Image</ResourceID>
       <ResourceHeader>
@@ -15,39 +15,44 @@
             <PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
             <Role>MetadataContact</Role>
 </Contact>
-         <InformationURL>
-            <Name>Documentation</Name>
-            <URL>http://www.sws.bom.gov.au/Solar/6/1</URL>
-            <Description>includes solar activity and solar image information</Description>
-            <Language>en</Language>
-</InformationURL>
-         <InformationURL>
-            <Name>Sun and Solar Activity</Name>
-            <URL>http://www.sws.bom.gov.au/Educational/2/1</URL>
-            <Language>en</Language>
-</InformationURL>
-         <InformationURL>
-            <Name>Real Time Image Display</Name>
-            <URL>http://www.sws.bom.gov.au/Solar/3/3</URL>
-            <Description>Real Time display of GONG H-Alpha, GONG White Light and GONG Magnetogram solar images recorded at Learmonth</Description>
-            <Language>en</Language>
-</InformationURL>
-         <InformationURL>
-            <Name>Global Oscillation Network Group Home Page</Name>
-            <URL>https://gong.nso.edu/</URL>
-            <Language>en</Language>
-</InformationURL>
 </ResourceHeader>
       <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/SWS</RepositoryID>
          <Availability>Online</Availability>
          <AccessRights>Open</AccessRights>
          <AccessURL>
+            <Name>Documentation</Name>
+            <URL>http://www.sws.bom.gov.au/Solar/6/1</URL>
+            <Style>File</Style>
+            <Description>includes solar activity and solar image information</Description>
+            <Language>en</Language>
+         </AccessURL>
+         <AccessURL>
+            <Name>Sun and Solar Activity</Name>
+            <URL>http://www.sws.bom.gov.au/Educational/2/1</URL>
+            <Style>File</Style>
+            <Language>en</Language>
+         </AccessURL>
+         <AccessURL>
+            <Name>Real Time Image Display</Name>
+            <URL>http://www.sws.bom.gov.au/Solar/3/3</URL>
+            <Style>File</Style>
+            <Description>Real Time display of GONG H-Alpha, GONG White Light and GONG Magnetogram solar images recorded at Learmonth</Description>
+            <Language>en</Language>
+         </AccesssURL>
+         <InformationURL>
+            <Name>Global Oscillation Network Group Home Page</Name>
+            <URL>https://gong.nso.edu/</URL>
+            <Style>File</Style>
+            <Language>en</Language>
+         </InformationURL>
+         <AccessURL>  
             <Name>FTP access to Solar Images</Name>
             <URL>ftp://ftp-out.sws.bom.gov.au/wdc/wdc_sol_archive/data/learmonth/</URL>
+            <Style>Listing</Style>
             <Description>FTP access to the Learmonth H-Alpha, GONG H-Alpha, GONG White Light and GONG Magnetogram solar image data files</Description>
             <Language>en</Language>
-</AccessURL>
+         </AccessURL>
          <Format>JPEG</Format>
          <Encoding>None</Encoding>
 </AccessInformation>
