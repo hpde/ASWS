@@ -15,40 +15,41 @@
             <PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
             <Role>MetadataContact</Role>
 </Contact>
-         <InformationURL>
-            <Name>Documentation</Name>
-            <URL>http://www.sws.bom.gov.au/Solar/6/1</URL>
-            <Description>includes solar activity and solar image information</Description>
-            <Language>en</Language>
-</InformationURL>
-         <InformationURL>
-            <Name>Sun and Solar Activity</Name>
-            <URL>http://www.sws.bom.gov.au/Educational/2/1</URL>
-            <Language>en</Language>
-</InformationURL>
-         <InformationURL>
-            <Name>Real Time H-Alpha Image Display</Name>
-            <URL>http://www.sws.bom.gov.au/Solar/2/4</URL>
-            <Description>Real Time display of H-Alpha solar images recorded at Culgoora</Description>
-            <Language>en</Language>
-</InformationURL>
-         <InformationURL>
-            <Name>Real Time White Light Image Display</Name>
-            <URL>http://www.sws.bom.gov.au/Solar/2/6</URL>
-            <Description>Real Time display of White Light solar images recorded at Culgoora</Description>
-            <Language>en</Language>
-</InformationURL>
+         
 </ResourceHeader>
       <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/SWS</RepositoryID>
          <Availability>Online</Availability>
          <AccessRights>Open</AccessRights>
          <AccessURL>
+            <Name>Documentation</Name>
+            <URL>http://www.sws.bom.gov.au/Solar/6/1</URL>
+            <Description>includes solar activity and solar image information</Description>
+            <Language>en</Language>
+         </AccessURL>
+         <AccessURL>
+            <Name>Sun and Solar Activity</Name>
+            <URL>http://www.sws.bom.gov.au/Educational/2/1</URL>
+            <Language>en</Language>
+         </AccessURL>
+         <AccessURL>
+            <Name>Real Time H-Alpha Image Display</Name>
+            <URL>http://www.sws.bom.gov.au/Solar/2/4</URL>
+            <Description>Real Time display of H-Alpha solar images recorded at Culgoora</Description>
+            <Language>en</Language>
+         </AccessURL>
+         <AccessURL>
+            <Name>Real Time White Light Image Display</Name>
+            <URL>http://www.sws.bom.gov.au/Solar/2/6</URL>
+            <Description>Real Time display of White Light solar images recorded at Culgoora</Description>
+            <Language>en</Language>
+         </AccessURL>
+         <AccessURL>
             <Name>FTP access to Solar Images</Name>
             <URL>ftp://ftp-out.sws.bom.gov.au/wdc/wdc_sol_archive/data/culgoora/</URL>
             <Description>FTP access to the Culgoora H-Alpha and White Light solar image data files</Description>
             <Language>en</Language>
-</AccessURL>
+         </AccessURL>
          <Format>JPEG</Format>
          <Encoding>None</Encoding>
 </AccessInformation>
