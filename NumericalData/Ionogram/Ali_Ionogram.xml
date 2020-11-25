@@ -43,7 +43,7 @@ Alice Springs station is closed in October 1985.</Description>
          <AccessURL>
             <Name>Documentation</Name>
             <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_ion_archive/doc/</URL>
-            <Style>File</Style>
+            <Style>Listing</Style>
             <Description>includes descriptions of data format of raw ionogram data and clean ionogram data</Description>
             <Language>en</Language>
          </AccessURL>
