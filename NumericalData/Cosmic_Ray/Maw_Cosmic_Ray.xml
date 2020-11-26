@@ -1,11 +1,11 @@
-<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_3.xsd">
+<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_3_2.xsd">
 <Version>2.3.2</Version>
   <NumericalData>
     <ResourceID>spase://ASWS/NumericalData/Cosmic_Ray/Maw_Cosmic_Ray</ResourceID>
     <ResourceHeader>
       <ResourceName>Australian Space Weather Services Mawson Cosmic Ray</ResourceName>
       <AlternateName/>
-      <ReleaseDate>2020-09-28T18:31:52Z</ReleaseDate>
+      <ReleaseDate>2020-11-26T18:31:52Z</ReleaseDate>
       <Description>
 Cosmic rays consist mainly of protons of extremely high energies. They can originate from galactic sources or from the Sun. Cosmic rays are observed indirectly. At the lowest energies able to reach the Erath's surface this is achieved by a device known as a neutron monitor. When cosmic ray particles enter the Earth's atmosphere they interact with the nuclei of the air molecules to produce secondary radiation. At the lowest accessible energies this consists of a shower of protons, nuclear fragments and neutrons whilst at higher energies it made up of pions (which decay to muons). The neutrons predominate in this secondary radiation because the protons and nuclear fragments, being charged are more easily attenuated in subsequent travel. The neutron monitor is designed to detect these secondary neutrons. The SWS WDC archives Cosmic Ray data obtained from Kingston in Tasmania, and Mawson in Antarctica. The first Cosmic Ray data file from Mawson was obtained on 28/06/2004. 
       </Description>
@@ -18,24 +18,22 @@ Cosmic rays consist mainly of protons of extremely high energies. They can origi
         <PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
         <Role>MetadataContact</Role>
       </Contact>
-      
+      <InformationURL>
+        <Name>Documentation</Name>
+        <URL>http://www.sws.bom.gov.au/World_Data_Centre/2/8/6</URL>    
+        <Description>includes descriptions of station, data formats and examples.</Description>
+        <Language>en</Language>
+      </InformationURL>
     </ResourceHeader>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/SWS</RepositoryID>
       <Availability>Online</Availability>
       <AccessRights>Open</AccessRights>
       <AccessURL>
-        <Name>World Data Centre: Cosmic Ray Data Display and Download</Name>
+        <Name>World Data Centre: Data Display and Download: Cosmic Ray</Name>
         <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/7</URL>
 	<Style>Search</Style>      
         <Description>includes browse display interface, button to get daily data file and link to data availability chart</Description>
-        <Language>en</Language>
-      </AccessURL>
-      <AccessURL>
-        <Name>Documentation</Name>
-        <URL>http://www.sws.bom.gov.au/World_Data_Centre/2/8/6</URL>
-	<Style>File</Style>      
-        <Description>includes descriptions of station, data formats and examples.</Description>
         <Language>en</Language>
       </AccessURL>
       <AccessURL>
