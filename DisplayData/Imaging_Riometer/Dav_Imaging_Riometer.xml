@@ -26,30 +26,28 @@ And a further note explains that: &#34;Despite efforts by the AADC to obtain dat
             <PersonID>spase://SMWG/Person/Lee.Frost.Bargatze</PersonID>
             <Role>MetadataContact</Role>
          </Contact>
+         <InformationURL>
+            <Name>Imaging Riometer Information</Name>
+            <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/6/2</URL>
+            <Description>includes information about The Southern Hemisphere Imaging Riometer Experiment (SHIRE), an IRIS imaging riometer system.</Description>
+            <Language>en</Language>
+         </InformationURL>
+         <InformationURL>
+            <Name>Imaging Riometer Data Policy</Name>
+            <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/6/3</URL>
+            <Description>Data Policy about Imaging Riometer data.</Description>
+            <Language>en</Language>
+         </InformationURL>
       </ResourceHeader>
       <AccessInformation>
          <RepositoryID>spase://SMWG/Repository/SWS</RepositoryID>
          <Availability>Online</Availability>
          <AccessRights>Open</AccessRights>
          <AccessURL>
-             <Name>World Data Centre: Imaging Riometer Data Display</Name>
+            <Name>World Data Centre:  Data Display and Download: Imaging Riometer</Name>
             <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/6</URL>
             <Style>Search</Style>
             <Description>includes browse display interface, and link to data availability chart</Description>
-            <Language>en</Language>
-         </AccessURL>
-         <AccessURL>
-            <Name>Imaging Riometer Information</Name>
-            <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/6/2</URL>
-            <Style>File</Style>
-            <Description>includes information about The Southern Hemisphere Imaging Riometer Experiment (SHIRE), an IRIS imaging riometer system.</Description>
-            <Language>en</Language>
-         </AccessURL>
-         <AccessURL>
-            <Name>Imaging Riometer Data Policy</Name>
-            <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/6/3</URL>
-            <Style>File</Style>
-            <Description>Data Policy about Imaging Riometer data.</Description>
             <Language>en</Language>
          </AccessURL>
          <Format>JPEG</Format>
