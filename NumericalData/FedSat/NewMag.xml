@@ -21,6 +21,18 @@ The CRCSS was a joint venture of four Australian companies, six Universities and
             <PersonID>spase://SMWG/Person/Lee.Frost.Bargatze</PersonID>
             <Role>MetadataContact</Role>
          </Contact>
+         <InformationURL>
+            <Name>Documentation</Name>
+            <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/5/2</URL>
+            <Description>includes descriptions of FedSat, data formats and examples and hardware</Description>
+            <Language>en</Language>
+         </InformationURL>
+         <InformationURL>
+            <Name>FEDSAT Data Policy</Name>
+            <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/5/3</URL>
+            <Description>How to access to FedSat data.</Description>
+            <Language>en</Language>
+         </InformationURL>
          <PriorID>spase://ASWS/NumericalData/FedSat/FedSat</PriorID>
       </ResourceHeader>
       <AccessInformation>
@@ -28,24 +40,10 @@ The CRCSS was a joint venture of four Australian companies, six Universities and
          <Availability>Online</Availability>
          <AccessRights>Open</AccessRights>
          <AccessURL>
-            <Name>World Data Centre: FedSat Data Display</Name>
+            <Name>World Data Centre: Data Display and Download: FedSat</Name>
             <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/5</URL>
             <Style>Search</Style>
             <Description>includes browse display interface, button to get daily data file and link to data availability chart</Description>
-            <Language>en</Language>
-         </AccessURL>
-         <AccessURL>
-            <Name>Documentation</Name>
-            <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/5/2</URL>
-            <Style>File</Style>
-            <Description>includes descriptions of FedSat, data formats and examples and hardware</Description>
-            <Language>en</Language>
-         </AccessURL>
-         <AccessURL>
-            <Name>FEDSAT Data Policy</Name>
-            <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/5/3</URL>
-            <Style>File</Style>
-            <Description>How to access to FedSat data.</Description>
             <Language>en</Language>
          </AccessURL>
          <Format>Text</Format>
