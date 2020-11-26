@@ -25,6 +25,12 @@
         <Description>includes descriptions of data format of raw ionogram data and clean ionogram data</Description>
         <Language>en</Language>
       </InformationURL>
+      <InformationURL>
+         <Name>Software</Name>
+         <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_tools/ionogram_viewers/</URL>    
+         <Description>Softwares to view clean ionogram data with scaling function</Description>
+         <Language>en</Language>
+      </InformationURL>
     </ResourceHeader>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/SWS</RepositoryID>
@@ -53,21 +59,6 @@
         <Language>en</Language>
       </AccessURL>
       <Format>Text</Format>
-      <Encoding>None</Encoding>
-      <Acknowledgement/>
-    </AccessInformation>
-    <AccessInformation>
-      <RepositoryID>spase://SMWG/Repository/SWS</RepositoryID>
-      <Availability>Online</Availability>
-      <AccessRights>Open</AccessRights>
-      <AccessURL>
-        <Name>Software</Name>
-        <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_tools/ionogram_viewers/</URL>
-	<Style>Listing</Style>     
-        <Description>Softwares to view clean ionogram data with scaling function</Description>
-        <Language>en</Language>
-      </AccessURL> 
-      <Format>Binary</Format>
       <Encoding>None</Encoding>
       <Acknowledgement/>
     </AccessInformation>
