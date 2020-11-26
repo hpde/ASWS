@@ -1,11 +1,11 @@
-<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_3.xsd">
+<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_3_2.xsd">
 <Version>2.3.2</Version>
   <DisplayData>
     <ResourceID>spase://ASWS/DisplayData/Spectrograph/Lem_Spectrograph</ResourceID>
     <ResourceHeader>
       <ResourceName>Australian Space Weather Services Learmonth Observatory Spectrograms</ResourceName>
       <AlternateName/>
-      <ReleaseDate>2020-09-28T18:31:52Z</ReleaseDate>
+      <ReleaseDate>2020-11-26T18:31:52Z</ReleaseDate>
       <Description>Culgoora and Learmonth Observatories dynamic spectrogram plots display frequency in MHz on the vertical axis and time in UT on the horizontal axis. The time span for each plot varies, generally spanning local day time hours with time resolution of 3 seconds. The frequency range is 18 - 1800 MHz for Culgoora spectrogams and 25 - 180 MHz for Learmonth spectrograms. The intensity values are color coded and are expressed as relative logarithmic units (0 to 255). 
 The Culgoora spectrograms consist of 4 frequency bands: 18-57, 57-180, 180-570 570 -1800 MHz
 and Learmonth has 2 bands: 25-75, 75-180 MHz. The two Learmonth bands are each divided into 400 frequency steps.     
@@ -20,24 +20,22 @@ and Learmonth has 2 bands: 25-75, 75-180 MHz. The two Learmonth bands are each d
         <PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
         <Role>MetadataContact</Role>
       </Contact>
-      
+      <InformationURL>
+        <Name>Documentation</Name>
+        <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_spec/doc/</URL>    
+        <Description>includes descriptions of Observation Log format, data format</Description>
+        <Language>en</Language>
+      </InformationURL>
     </ResourceHeader>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/SWS</RepositoryID>
       <Availability>Online</Availability>
       <AccessRights>Open</AccessRights>
       <AccessURL>
-        <Name>World Data Centre: Spectrograph Data Display and Download </Name>
+        <Name>World Data Centre: Data Display and Download: Spectrograph </Name>
         <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/9</URL>
 	<Style>Search</Style>      
         <Description>includes browse display interface, and link to data availability chart</Description>
-        <Language>en</Language>
-      </AccessURL>
-      <AccessURL>
-        <Name>Documentation</Name>
-        <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_spec/doc/</URL>
-	<Style>Listing</Style>      
-        <Description>includes descriptions of Observation Log format, data format</Description>
         <Language>en</Language>
       </AccessURL>
       <AccessURL>
