@@ -1,10 +1,10 @@
-<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_3.xsd">
+<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_3_2.xsd">
    <Version>2.3.2</Version>
    <DisplayData>
       <ResourceID>spase://ASWS/DisplayData/Imaging_Riometer/Dav_Imaging_Riometer</ResourceID>
       <ResourceHeader>
          <ResourceName>Australian Space Weather Services Davis Imaging Riometer</ResourceName>
-         <ReleaseDate>2019-05-01T12:34:56.789Z</ReleaseDate>
+         <ReleaseDate>2020-11-26T12:34:56.789Z</ReleaseDate>
          <Description>
 The Southern Hemisphere Imaging Riometer Experiment (SHIRE) is an IRIS imaging riometer system which was installed at the Australian Antarctic station, Davis (68.58&#176; S, 79.97&#176; E geographic, -74.48&#176; Invariant latitude), over the Austral summer of 1996/97. The project is the result of collaboration between the Space Physics Group at the University of Newcastle, the Institute for Physical Science and Technology at the University of Maryland, and the Australian Antarctic Division.
 
