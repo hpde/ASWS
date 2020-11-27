@@ -45,13 +45,6 @@ and Learmonth has 2 bands: 25-75, 75-180 MHz. The two Learmonth bands are each d
         <Language>en</Language>
       </AccessURL>
       <AccessURL>
-        <Name>Software</Name>
-        <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_tools/solar_viewers/spectrograph/</URL>
-	<Style>Listing</Style>        
-        <Description></Description>
-        <Language>en</Language>
-      </AccessURL>
-      <AccessURL>
         <Name>Real Time Display</Name>
         <URL>http://www.sws.bom.gov.au/Solar/3/2/1</URL>
 	<Style>File</Style>        
