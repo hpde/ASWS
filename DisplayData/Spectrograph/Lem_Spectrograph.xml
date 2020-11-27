@@ -26,6 +26,12 @@ and Learmonth has 2 bands: 25-75, 75-180 MHz. The two Learmonth bands are each d
         <Description>includes descriptions of Observation Log format, data format</Description>
         <Language>en</Language>
       </InformationURL>
+      <InformationURL>
+        <Name>Software</Name>
+        <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_tools/solar_viewers/spectrograph/</URL>   
+        <Description></Description>
+        <Language>en</Language>
+      </InformationURL>
     </ResourceHeader>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/SWS</RepositoryID>
