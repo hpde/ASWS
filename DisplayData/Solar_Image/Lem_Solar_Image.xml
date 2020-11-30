@@ -42,7 +42,7 @@
             <Style>File</Style>
             <Description>Real Time display of GONG H-Alpha, GONG White Light and GONG Magnetogram solar images recorded at Learmonth</Description>
             <Language>en</Language>
-         </AccesssURL>
+         </AccessURL>
          <AccessURL>  
             <Name>FTP access to Solar Images</Name>
             <URL>ftp://ftp-out.sws.bom.gov.au/wdc/wdc_sol_archive/data/learmonth/</URL>
