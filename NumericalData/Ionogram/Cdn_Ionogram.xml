@@ -87,7 +87,7 @@
         <Language>en</Language>
       </AccessURL>
       <Format>Binary</Format>
-      <Encoding>None</Encoding>
+      <Encoding>ZIP</Encoding>
       <Acknowledgement/>
     </AccessInformation>
 	<ProviderProcessingLevel>The original ionogram data are raw data, they are then cleaned by reducing noise signals at the station.
