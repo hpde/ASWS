@@ -30,17 +30,25 @@
       <Availability>Online</Availability>
       <AccessRights>Open</AccessRights>
       <AccessURL>
-        <Name>World Data Centre: Data Display and Download: Magnetometer</Name>
-        <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/2</URL>
-	<Style>Search</Style>
-        <Description>includes browse display interface, button to get daily data file and link to data availability chart</Description>
-        <Language>en</Language>
-      </AccessURL>
-      <AccessURL>
         <Name>Real Time Information</Name>
         <URL>http://www.sws.bom.gov.au/Geophysical/1/1</URL>
 	<Style>Overview</Style>
         <Description>Online viewer of real time magnetograms data, indices, maps, alerts and warnings, and reports and forecasts</Description>
+        <Language>en</Language>
+      </AccessURL>
+      <Format>GIF</Format>
+      <Encoding>None</Encoding>
+      <Acknowledgement/>
+    </AccessInformation>
+    <AccessInformation>
+      <RepositoryID>spase://SMWG/Repository/SWS</RepositoryID>
+      <Availability>Online</Availability>
+      <AccessRights>Open</AccessRights>
+      <AccessURL>
+        <Name>World Data Centre: Data Display and Download: Magnetometer</Name>
+        <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/2</URL>
+	<Style>Search</Style>
+        <Description>includes browse display interface, button to get daily data file and link to data availability chart</Description>
         <Language>en</Language>
       </AccessURL>
       <AccessURL>
@@ -51,7 +59,7 @@
         <Language>en</Language>
       </AccessURL>
       <Format>Text</Format>
-      <Encoding>None</Encoding>
+      <Encoding>GZIP</Encoding>
       <Acknowledgement/>
     </AccessInformation>
 	<ProviderProcessingLevel>The original magnetometer data are raw data and are uncalibrated.</ProviderProcessingLevel>  
