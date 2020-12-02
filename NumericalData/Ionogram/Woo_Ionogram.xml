@@ -1,10 +1,10 @@
-<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_3.xsd">
-   <Version>2.2.3</Version>
+<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_3_2.xsd">
+   <Version>2.3.2</Version>
    <NumericalData>
       <ResourceID>spase://ASWS/NumericalData/Ionogram/Woo_Ionogram</ResourceID>
       <ResourceHeader>
          <ResourceName>Australian Space Weather Services Woomera Ionogram</ResourceName>
-         <ReleaseDate>2019-05-01T12:34:56.789Z</ReleaseDate>
+         <ReleaseDate>2020-12-02T05:04:46Z</ReleaseDate>
          <Description>Ionograms are an image of frequency versus time delay (virtual height) of HF echoes from the ionosphere recorded by an ionosonde. An ionosonde is a swept frequency HF pulsed radar used to monitor the ionosphere. SWS WDC has archived ionogram data from 26 stations, 12 of them are still active at present. A vertical analog ionosonde had been installed at Woomera and sounded since 01/1962 to 07/1968. The vertical sounding ionosondes normally sweep in frequency from about 1.0 to 21.5 MHz. Frequency step resolution is 5 kHz, with up to 4095 steps available. The step interval is variable, becoming more coarse at higher frequencies as ionograms are generally displayed on a logarithmic scale. Every five minutes, a Ionogram data file was recorded. The raw ionogram is recorded in a film, which will be posted to Sydney SWS head office. SWS manually scaled and archived all ionogram films. There is no digital raw or clean ionogram data for Woomera. The Woomera scaled hourly ionospheric data is not available. The Woomera median data of foF2 and M(3000)F2 are available since 01/1962 to 07/1968.
 
 Woomera station was closed in November 1985.</Description>
@@ -22,12 +22,6 @@ Woomera station was closed in November 1985.</Description>
             <Role>MetadataContact</Role>
          </Contact>
          <InformationURL>
-            <Name>World Data Centre: Data Display and Download: Monthly Median Ionospheric Data</Name>
-            <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/4</URL>
-            <Description>includes browse display interface, button to get the median data file and link to data availability chart</Description>
-            <Language>en</Language>
-         </InformationURL>
-         <InformationURL>
             <Name>Documentation</Name>
             <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_ion_archive/doc/</URL>
             <Description>includes descriptions of data format of raw ionogram data, clean ionogram data and scaled data</Description>
@@ -39,13 +33,27 @@ Woomera station was closed in November 1985.</Description>
          <Availability>Online</Availability>
          <AccessRights>Open</AccessRights>
          <AccessURL>
+            <Name>World Data Centre: Data Display and Download: Monthly Median Ionospheric Data</Name>
+            <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/4</URL>
+            <Style>Search</Style>
+            <Description>includes browse display interface, button to get the median data file and link to data availability chart</Description>
+            <Language>en</Language>
+         </AccessURL>
+         <Format>Text</Format>
+         <Encoding>None</Encoding>
+      </AccessInformation>
+      <AccessInformation>
+         <RepositoryID>spase://SMWG/Repository/SWS</RepositoryID>
+         <Availability>Online</Availability>
+         <AccessRights>Open</AccessRights>
+         <AccessURL>
             <Name>FTP access to Woomera median data of foF2 and M(3000)F2 data</Name>
             <URL>ftp://ftp-out.sws.bom.gov.au/wdc/iondata/medians/</URL>
             <Description>FTP access to the median data of Woomera ionosondes. The station ID is 3460.</Description>
             <Language>en</Language>
          </AccessURL>
-         <Format>Text</Format>
-         <Encoding>None</Encoding>
+         <Format>Binary</Format>
+         <Encoding>ZIP</Encoding>
       </AccessInformation>
       <ProviderProcessingLevel>The manually scaled data is calibrated and the autoscaled data is uncalibrated.</ProviderProcessingLevel>
       <InstrumentID>spase://ASWS/Instrument/Ground/Woomera/Ionosonde</InstrumentID>
