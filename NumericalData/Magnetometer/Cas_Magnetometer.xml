@@ -27,13 +27,13 @@
     </ResourceHeader>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/SWS</RepositoryID>
-      <Availability>Online</Availability>
+      <Availability>Offline</Availability>
       <AccessRights>Open</AccessRights>
       <AccessURL>
         <Name>Real Time Information</Name>
-        <URL>http://www.sws.bom.gov.au/Geophysical/1/1</URL>
+        <URL>http://www.sws.bom.gov.au/Geophysical</URL>
 	<Style>Overview</Style>
-        <Description>Online viewer of real time magnetograms data, indices, maps, alerts and warnings, and reports and forecasts</Description>
+        <Description>Online viewer of real time magnetograms data, indices, maps, alerts and warnings, and reports and forecasts. No Casey AAD Mgnetometer real time data.</Description>
         <Language>en</Language>
       </AccessURL>
       <Format>GIF</Format>
