@@ -1,9 +1,9 @@
 <Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_3_2.xsd">
 <Version>2.3.2</Version>
   <NumericalData>
-    <ResourceID>spase://ASWS/NumericalData/Magnetometer/Cas_Magnetometer_AAD</ResourceID>
+    <ResourceID>spase://ASWS/NumericalData/Magnetometer/Cas_Magnetometer</ResourceID>
     <ResourceHeader>
-      <ResourceName>Australian Space Weather Services Casey Magnetometer</ResourceName>
+      <ResourceName>Australian Space Weather Services Casey Magnetometer (AAD)</ResourceName>
       <AlternateName/>
       <ReleaseDate>2020-12-02T23:05:06Z</ReleaseDate>
       <Description>
