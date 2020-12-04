@@ -1,11 +1,11 @@
-<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_2_3.xsd">
-<Version>2.2.3</Version>
+<Spase xmlns="http://www.spase-group.org/data/schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.spase-group.org/data/schema http://www.spase-group.org/data/schema/spase-2_3_2.xsd">
+<Version>2.3.2</Version>
   <NumericalData>
     <ResourceID>spase://ASWS/NumericalData/Riometer/Cas_Riometer</ResourceID>
     <ResourceHeader>
       <ResourceName>Australian Space Weather Services Casey Riometer</ResourceName>
       <AlternateName/>
-      <ReleaseDate>2020-09-28T18:31:52Z</ReleaseDate>
+      <ReleaseDate>2020-12-04T03:34:52Z</ReleaseDate>
       <Description>
 	  A riometer (relative ionospheric opacity meter) (30 MHz) is an instrument used to quantify the amount of electromagnetic wave ionospheric absorption in the atmosphere.[1] As the name implies, a riometer measures the "opacity" of the ionosphere to radio noise emanating from distant stars and galaxies. In the absence of any ionospheric absorption, this radio noise, averaged over a sufficiently long period of time, forms a quiet-day curve. Increased ionization in the ionosphere will cause absorption of radio signals (both terrestrial and extraterrestrial), and a departure from the quiet-day curve. The difference between the quiet-day curve and the riometer signal is an indicator of the amount of absorption, and is measured in decibels. Riometers are generally passive radio antenna operating in the VHF radio frequency range (~30 MHz). The SWS WDC archives Riometer data obtained from Casey, Davis, Mawson and Macquarie Island in Antarctica. The first Riometer data file from Casey was obtained on 17/01/1989. 
       </Description>
@@ -19,21 +19,9 @@
         <Role>MetadataContact</Role>
       </Contact>
       <InformationURL>
-        <Name>World Data Centre: Data Display and Download: Riometer</Name>
-        <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/8</URL>
-        <Description>includes browse display interface, button to get daily data file and link to data availability chart</Description>
-        <Language>en</Language>
-      </InformationURL>
-      <InformationURL>
         <Name>Documentation</Name>
         <URL>http://www.sws.bom.gov.au/World_Data_Centre/2/8/7</URL>
         <Description>includes descriptions of station, data formats and examples.</Description>
-        <Language>en</Language>
-      </InformationURL>
-      <InformationURL>
-        <Name>Real Time Information: Real Time Riometer Data</Name>
-        <URL>http://www.sws.bom.gov.au/HF_Systems/6/3</URL>
-        <Description>Online viewer of real time Riometer data.</Description>
         <Language>en</Language>
       </InformationURL>
     </ResourceHeader>
@@ -42,13 +30,36 @@
       <Availability>Online</Availability>
       <AccessRights>Open</AccessRights>
       <AccessURL>
+        <Name>Real Time Information: Real Time Riometer Data</Name>
+        <URL>http://www.sws.bom.gov.au/HF_Systems/6/3</URL>
+	<Style>Overview</Style>      
+        <Description>Online viewer of real time Riometer data.</Description>
+        <Language>en</Language>
+      </AccessURL>
+      <Format>GIF</Format>
+      <Encoding>None</Encoding>
+      <Acknowledgement/>
+    </AccessInformation>
+    <AccessInformation>
+      <RepositoryID>spase://SMWG/Repository/SWS</RepositoryID>
+      <Availability>Online</Availability>
+      <AccessRights>Open</AccessRights>
+      <AccessURL>
+        <Name>World Data Centre: Data Display and Download: Riometer</Name>
+        <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/8</URL>
+	<Style>Search</Style>  
+        <Description>includes browse display interface, button to get daily data file and link to data availability chart</Description>
+        <Language>en</Language>
+      </AccessURL>
+      <AccessURL>
         <Name>FTP access to Riometer data</Name>
-           <URL>ftp://ftp-out.sws.bom.gov.au/wdc/wdc_rio/</URL>
+        <URL>ftp://ftp-out.sws.bom.gov.au/wdc/wdc_rio/</URL>
+	<Style>Listing</Style>    
         <Description>FTP access to the station Riometer data data of Casey and a README file.</Description>
         <Language>en</Language>
       </AccessURL>
       <Format>Text</Format>
-      <Encoding>None</Encoding>
+      <Encoding>GZIP</Encoding>
       <Acknowledgement/>
     </AccessInformation>
 	<ProviderProcessingLevel>The Riometer data are processed data and are uncalibrated.</ProviderProcessingLevel>  
