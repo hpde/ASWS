@@ -37,7 +37,7 @@
       <AccessURL>
         <Name>World Data Centre: Data Display and Download: Hourly Ionospheirc Data</Name>
         <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/3</URL>
-	<Style>Search</style>      
+	<Style>Search</Style>      
         <Description>includes browse display interface, button to get yearly data file and link to data availability chart</Description>
         <Language>en</Language>
       </AccessURL>
@@ -52,7 +52,7 @@
       <AccessURL>
         <Name>World Data Centre: Data Display and Download: Monthly Median Ionospheirc Data</Name>
         <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/4</URL>
-	<Style>Search</style>      
+	<Style>Search</Style>      
         <Description>includes browse display interface, button to get the median data file and link to data availability chart</Description>
         <Language>en</Language>
       </AccessURL>
@@ -67,7 +67,7 @@
       <AccessURL>
         <Name>Real Time Display</Name>
         <URL>http://www.sws.bom.gov.au/HF_Systems/1/3</URL>
-	<Style>Search</style>
+	<Style>Search</Style>
         <Description>Online viewer of Real Time clean ionogram data</Description>
         <Language>en</Language>
       </AccessURL>
@@ -82,7 +82,7 @@
       <AccessURL>
         <Name>FTP access to raw and clean ionogram data</Name>
         <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_ion_archive/</URL>
-	<Style>Listing</style>
+	<Style>Listing</Style>
         <Description>FTP access to the raw and clean ionogram data of Mawson CADI ionosonde(mawcd), IPS 4D ionosonde(maw4d) and IPS 5D ionosonde(maw5d)</Description>
         <Language>en</Language>
       </AccessURL>
