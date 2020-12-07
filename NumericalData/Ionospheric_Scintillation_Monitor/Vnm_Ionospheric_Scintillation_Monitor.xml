@@ -32,7 +32,7 @@
       <AccessURL>
         <Name>World Data Centre: Data Display and Download: Ionospheric Scintillation Monitor</Name>
         <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/11</URL>
-	<Style>Search<Style>
+	<Style>Search</Style>
         <Description>includes browse display interface, button to get daily data file and link to data availability chart</Description>
         <Language>en</Language>
       </AccessURL>
