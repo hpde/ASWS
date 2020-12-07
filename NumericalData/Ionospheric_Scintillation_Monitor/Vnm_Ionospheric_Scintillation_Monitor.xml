@@ -39,14 +39,14 @@
       <AccessURL>
         <Name>Real Time Information</Name>
         <URL>http://www.sws.bom.gov.au/Satellite/1/1</URL>
-	<Style>Overview<Style>
+	<Style>Overview</Style>
         <Description>Online viewer of real time Ionospheric Scintillation Monitor data, Latest Conditions, Regional Map, Recent Scintillation Events.</Description>
         <Language>en</Language>
       </AccessURL>
       <AccessURL>
         <Name>FTP access to Ionospheric Scintillation Monitor data</Name>
         <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_ism/data/vanimo/</URL>
-	<Style>Listing<Style>
+	<Style>Listing</Style>
         <Description>FTP access to the station Ionospheric Scintillation Monitor data data of Vanimo.</Description>
         <Language>en</Language>
       </AccessURL>
