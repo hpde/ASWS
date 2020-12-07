@@ -36,7 +36,7 @@
       <RepositoryID>spase://SMWG/Repository/SWS</RepositoryID>
       <Availability>Online</Availability>
       <AccessRights>Open</AccessRights>
-      <AccessRL>
+      <AccessURL>
         <Name>World Data Centre: Data Display and Download: Hourly Ionospheirc Data</Name>
         <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/3</URL>
 	<Style>Search</Style>
