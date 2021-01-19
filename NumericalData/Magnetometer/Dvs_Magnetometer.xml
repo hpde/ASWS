@@ -53,7 +53,7 @@
       </AccessURL>
       <AccessURL>
         <Name>FTP access to raw magnetometer data</Name>
-        <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_mag/data/dvs/</URL>
+        <URL>ftp://ftp-out.sws.bom.gov.au/wdc/wdc_mag/data/dvs/</URL>
 	<Style>Listing</Style>	    
         <Description>FTP access to the station log file and raw magetometer data of Davis </Description>
         <Language>en</Language>
