@@ -19,7 +19,7 @@ The Tennant Creek median data of foF2 and M(3000)F2 are available since 05/1985 
          </Contact>
          <InformationURL>
             <Name>Documentation</Name>
-            <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_ion_archive/doc/</URL>
+            <URL>ftp://ftp-out.sws.bom.gov.au/wdc/wdc_ion_archive/doc/</URL>
             <Description>includes descriptions of data format of raw ionogram data, clean ionogram data and scaled data</Description>
             <Language>en</Language>
          </InformationURL>
