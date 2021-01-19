@@ -45,7 +45,7 @@
       </AccessURL>
       <AccessURL>
         <Name>FTP access to Ionospheric Scintillation Monitor data</Name>
-        <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_ism/data/niue/</URL>
+        <URL>ftp://ftp-out.sws.bom.gov.au/wdc/wdc_ism/data/niue/</URL>
 	<Style>Listing</Style>
         <Description>FTP access to the station Ionospheric Scintillation Monitor data data of Niue.</Description>
         <Language>en</Language>
