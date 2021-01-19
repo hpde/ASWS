@@ -22,13 +22,13 @@ and Learmonth has 2 bands: 25-75, 75-180 MHz. The two Learmonth bands are each d
       </Contact>
       <InformationURL>
         <Name>Documentation</Name>
-        <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_spec/doc/</URL>    
+        <URL>ftp://ftp-out.sws.bom.gov.au/wdc/wdc_spec/doc/</URL>    
         <Description>includes descriptions of Observation Log format, data format</Description>
         <Language>en</Language>
       </InformationURL>
       <InformationURL>
         <Name>Software</Name>
-        <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_tools/solar_viewers/spectrograph/</URL>   
+        <URL>ftp://ftp-out.sws.bom.gov.au/wdc/wdc_tools/solar_viewers/spectrograph/</URL>   
         <Description></Description>
         <Language>en</Language>
       </InformationURL>
@@ -53,7 +53,7 @@ and Learmonth has 2 bands: 25-75, 75-180 MHz. The two Learmonth bands are each d
       </AccessURL>   
       <AccessURL>
         <Name>FTP access to dynamic spectra plots</Name>
-        <URL>ftp://ftp-out.ips.gov.au/wdc/wdc_spec/</URL>
+        <URL>ftp://ftp-out.sws.bom.gov.au/wdc/wdc_spec/</URL>
 	<Style>Listing</Style>  
         <Description>FTP access to the GIF images, thumbnails, event logs and raw data files</Description>
         <Language>en</Language>
