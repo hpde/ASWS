@@ -67,7 +67,7 @@ Alice Springs station is closed in October 1985.</Description>
          <Availability>Online</Availability>
          <AccessRights>Open</AccessRights>
          <AccessURL>
-            <Name>FTP access to raw and clean ionogram data</Name>
+            <Name>FTP access to raw and clean ionogram data (not with most browsers)</Name>
             <URL>ftp://ftp-out.sws.bom.gov.au/wdc/iondata/au/alicesps/</URL>
             <Style>Listing</Style>
             <Description>FTP access to the scaled ionospheric data of Alice Springs ionosondes</Description>
