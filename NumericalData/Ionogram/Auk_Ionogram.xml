@@ -20,13 +20,13 @@
             <Role>MetadataContact</Role>
          </Contact>
          <InformationURL>
-            <Name>Documentation</Name>
+            <Name>Documentation (not with most browsers)</Name>
             <URL>ftp://ftp-out.sws.bom.gov.au/wdc/wdc_ion_archive/doc/</URL>
             <Description>includes descriptions of data format of raw ionogram data and clean ionogram data</Description>
             <Language>en</Language>
          </InformationURL>
          <InformationURL>
-            <Name>Software</Name>
+            <Name>Software (not with most browsers)</Name>
             <URL>ftp://ftp-out.sws.bom.gov.au/wdc/wdc_tools/ionogram_viewers/</URL>    
             <Description>Softwares to view clean ionogram data with scaling function</Description>
             <Language>en</Language>
