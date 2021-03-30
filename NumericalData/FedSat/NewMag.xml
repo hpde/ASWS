@@ -4,7 +4,7 @@
       <ResourceID>spase://ASWS/NumericalData/FedSat/NewMag</ResourceID>
       <ResourceHeader>
          <ResourceName>Australian Federation Satellite, FedSat, NewMag data</ResourceName>
-         <ReleaseDate>2019-05-01T12:34:56.789Z</ReleaseDate>
+         <ReleaseDate>2021-03-29T17:14:50Z</ReleaseDate>
          <Description>FEDSAT is a Low Earth Orbit (LEO) micro-satellite built by the Australian Cooperative Research Centre for Satellite Systems (CRCSS). The satellite was launched from Tanegashima Space Centre on 14 December 2002 into a 10:30 Local Time sun-synchronous polar orbit at just over 800 km altitude. Onboard the satellite carries a range of scientific and engineering payloads, one of which is the NewMag triaxial (vector) magnetometer.
 
 The CRCSS was a joint venture of four Australian companies, six Universities and two government agencies. It was established 1 January 1998 under the Commonwealth&#39;s Cooperative Research Centres Program. The Centre carried out research and development, education, training, operations and commercial activities relating to space technologies, particularly in the field of low-cost satellite missions. FEDSAT was the CRC&#39;s first major project and was the first satellite built in Australia in over thirty years.</Description>
@@ -23,13 +23,13 @@ The CRCSS was a joint venture of four Australian companies, six Universities and
          </Contact>
          <InformationURL>
             <Name>Documentation</Name>
-            <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/5/2</URL>
+            <URL>https://www.sws.bom.gov.au/World_Data_Centre/1/5/2</URL>
             <Description>includes descriptions of FedSat, data formats and examples and hardware</Description>
             <Language>en</Language>
          </InformationURL>
          <InformationURL>
             <Name>FEDSAT Data Policy</Name>
-            <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/5/3</URL>
+            <URL>https://www.sws.bom.gov.au/World_Data_Centre/1/5/3</URL>
             <Description>How to access to FedSat data.</Description>
             <Language>en</Language>
          </InformationURL>
@@ -41,7 +41,7 @@ The CRCSS was a joint venture of four Australian companies, six Universities and
          <AccessRights>Open</AccessRights>
          <AccessURL>
             <Name>World Data Centre: Data Display and Download: FedSat</Name>
-            <URL>http://www.sws.bom.gov.au/World_Data_Centre/1/5</URL>
+            <URL>https://www.sws.bom.gov.au/World_Data_Centre/1/5</URL>
             <Style>Search</Style>
             <Description>includes browse display interface, button to get daily data file and link to data availability chart</Description>
             <Language>en</Language>

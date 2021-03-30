@@ -4,7 +4,7 @@
       <ResourceID>spase://ASWS/DisplayData/Solar_Image/Clg_Solar_Image</ResourceID>
       <ResourceHeader>
          <ResourceName>Australian Space Weather Services Culgoora Solar Observatory Solar Image</ResourceName>
-         <ReleaseDate>2021-03-10T20:13:28Z</ReleaseDate>
+         <ReleaseDate>2021-03-29T17:14:50Z</ReleaseDate>
          <Description>Australia has made major contributions to research in solar physics for several decades. Solar images are a major kind of records of solar activities. The SWS has monitored and archived solar activity images from Culgoora and Learmonth for more than two decades. They include H-Alpha (2003-2014) and White Light(2004-2013) images from Culgoora, and H-Alpha(2004-2009), GONG H-Alpha (since 2013), GONG White Light(since 2010)and GONG Magnetogram(since 2010) images from Learmonth. A new single mounted three telescopes has installed at Culgoora. Culgoora solar image data is available since 02/01/2003.</Description>
          <Acknowledgement>We are thankful to the Culgoora Solar Observatory of Space Weather Network, Bureau of Meteorology of Australia for the observations of Culgoora Solar Image data.</Acknowledgement>
          <Contact>
@@ -17,13 +17,13 @@
          </Contact>
          <InformationURL>
             <Name>Documentation</Name>
-            <URL>http://www.sws.bom.gov.au/Solar/6/1</URL>
+            <URL>https://www.sws.bom.gov.au/Solar/6/1</URL>
             <Description>includes solar activity and solar image information</Description>
             <Language>en</Language>
          </InformationURL>
          <InformationURL>
             <Name>Sun and Solar Activity</Name>
-            <URL>http://www.sws.bom.gov.au/Educational/2/1</URL>
+            <URL>https://www.sws.bom.gov.au/Educational/2/1</URL>
             <Language>en</Language>
          </InformationURL>
 </ResourceHeader>
@@ -33,14 +33,14 @@
          <AccessRights>Open</AccessRights>
          <AccessURL>
             <Name>Real Time H-Alpha Image Display</Name>
-            <URL>http://www.sws.bom.gov.au/Solar/2/4</URL>
+            <URL>https://www.sws.bom.gov.au/Solar/2/4</URL>
             <Style>File</Style>
             <Description>Real Time display of H-Alpha solar images recorded at Culgoora</Description>
             <Language>en</Language>
          </AccessURL>
          <AccessURL>
             <Name>Real Time White Light Image Display</Name>
-            <URL>http://www.sws.bom.gov.au/Solar/2/6</URL>
+            <URL>https://www.sws.bom.gov.au/Solar/2/6</URL>
             <Style>File</Style>
             <Description>Real Time display of White Light solar images recorded at Culgoora</Description>
             <Language>en</Language>
