@@ -4,7 +4,7 @@
   <ResourceID>spase://ASWS/Repository/ASWS</ResourceID>
   <ResourceHeader>
    <ResourceName>ASWS Metadata Repository</ResourceName>
-   <ReleaseDate>2021-04-01T110:00:00</ReleaseDate>
+   <ReleaseDate>2021-04-01T00:00:00</ReleaseDate>
    <Description>Repository for SPASE description for resources under Australian Space Weather Services (ASWS) authority.</Description>
    <Contact>
     <PersonID>spase://ASWS/Person/Kehe.Wang</PersonID>
