@@ -59,7 +59,7 @@
         <Language>en</Language>
       </AccessURL>
       <Format>Text</Format>
-      <Encoding>GZIp</Encoding>
+      <Encoding>GZip</Encoding>
       <Acknowledgement/>
     </AccessInformation>
 	<ProviderProcessingLevel>The Riometer data are processed data and are uncalibrated.</ProviderProcessingLevel>  

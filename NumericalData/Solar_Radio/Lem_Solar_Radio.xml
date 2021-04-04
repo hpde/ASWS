@@ -34,7 +34,7 @@
          <AccessURL>
             <Name>Real Time Display</Name>
             <URL>https://www.sws.bom.gov.au/Solar/3/4</URL>
-            <Style>Ovrtview</Style>
+            <Style>Overview</Style>
             <Description>Real Time display of solar radio (245-15400 MHz) during daylight hours in Learmonth, Display Cadence: 12 hr</Description>
             <Language>en</Language>
          </AccessURL>
