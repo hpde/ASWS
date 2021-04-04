@@ -39,3 +39,7 @@ run the "SPASE Manual Validation" action.  To manually run an action go to the [
 select the "SPASE Manual Validation" action, then click on "Run Workflow". For large repositories it 
 can take many minutes for the workflow to complete - be patient. Once it is complete the "SPASE Manual Validation"
 badge will update.
+
+Notes for repository administrator: There is no garbage collection for workflows. So, its a good practice to
+occassionally visit the [action workflows](../../actions) and remove old workflow runs. To remove a run click
+the elipses (...) for a work flow and select "Delete workflow run". Typically you would only need the most recent run.
