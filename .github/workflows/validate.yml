@@ -40,7 +40,9 @@ jobs:
       # Check descriptions for schema conformance
       - name: Schema compliance ...
         run: |
-          echo "Schema compliance ..." > logs/validate.log
+          echo "Repo: ${{ github.repository }}" > logs/validate.log
+          echo "" >> logs/validate.log
+          echo "Schema compliance ..." >> logs/validate.log
           spase-validate -r . >> logs/validate.log
 
       # Check references
