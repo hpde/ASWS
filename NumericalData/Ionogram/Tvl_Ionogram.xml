@@ -4,7 +4,6 @@
     <ResourceID>spase://ASWS/NumericalData/Ionogram/Tvl_Ionogram</ResourceID>
     <ResourceHeader>
       <ResourceName>Australian Space Weather Services Townsville Ionogram</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2021-03-29T17:14:50Z</ReleaseDate>
       <Description>Ionograms are an image of frequency versus time delay (virtual height) of HF echoes from the ionosphere recorded by an ionosonde. An ionosonde is a swept frequency HF pulsed radar used to monitor the ionosphere. SWS WDC has archived ionogram data from 26 stations, 12 of them are still active at present. An IPS 5D ionosonde has been sounding since 17/08/2000 at Townsville. The 5D vertical sounding ionosondes normally sweep in frequency from about 1 to 21.5 MHz. Frequency step resolution for the 5D is 5kHz, with up to 4095 steps available. The step interval is variable, becoming more coarse at higher frequencies as ionograms are generally displayed on a logarithmic scale. Every five minutes, a Ionogram data file is recorded, cleaned and the cleaned ionogram is transfered to SWS Sydney head office for autoscaling and further analysis. The raw ionogram file is recorded in a DVD monthly, which will be posted to Sydney SWS head office every month. During 13/05/1994 to 19/12/2001, Townsville also had an IPS 4D ionosonde. During 01/01/1991 to 03/09/1998, an IPS 5a ionosonde. and During 03/09/1998 to 15/08/2000, a CADI ionosonde. The IPS 5D ionosonde was stopped in 10/09/2018 and replaced by an IPS 5F ionosonde since 09/01/2019. SWS WDC archives all raw ionogram files and cleaned ionogram files. The Townsville digital clean ionogram data is available since 01/01/1991, and digital raw ionogram data since 13/05/1994. The Townsville scaled hourly ionospheric data include parameters of foF2, foF1, FoE, foEs, fbEs, fmin, fxl, f'scaling F/s, M(3000)F2, h'F2, h'F, h'E, h'Es, h'Scaling R/S and Type Es. They are avalable since 09/06/1951. The Townsville median data of foF2 and M(3000)F2 are available since 06/1946.
       </Description>
@@ -45,7 +44,6 @@
       </AccessURL>
       <Format>Text</Format>
       <Encoding>GZIP</Encoding>
-      <Acknowledgement/>
     </AccessInformation>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/SWS</RepositoryID>
@@ -60,7 +58,6 @@
       </AccessURL>
       <Format>Text</Format>
       <Encoding>None</Encoding>
-      <Acknowledgement/>
     </AccessInformation>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/SWS</RepositoryID>
@@ -75,7 +72,6 @@
       </AccessURL>
       <Format>Binary</Format>
       <Encoding>None</Encoding>
-      <Acknowledgement/>
     </AccessInformation>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/SWS</RepositoryID>
@@ -90,7 +86,6 @@
       </AccessURL>
       <Format>Binary</Format>
       <Encoding>ZIP</Encoding>
-      <Acknowledgement/>
     </AccessInformation>
 	<ProviderProcessingLevel>The original ionogram data are raw data, they are then cleaned by reducing noise signals at the station.
 	The manually scaled data is calibrated and the autoscaled data is uncalibrated.</ProviderProcessingLevel>  
@@ -105,7 +100,6 @@
     </TemporalDescription>
     <SpectralRange>RadioFrequency</SpectralRange>
 	<ObservedRegion>Earth.NearSurface.Ionosphere</ObservedRegion>
-    <Caveats></Caveats>
     <!-- Keywords pertaining to the data presentation -->
     <Keyword>Ionogram</Keyword>
     <Keyword>Ionospheric data</Keyword>
@@ -114,12 +108,9 @@
     <Keyword>Hourly ionospheric data</Keyword>
     <Keyword>Scaled parameters</Keyword>
     <!-- Keywords pertaining to the physical phenomena appearing in ionogram --> 
-    <Keyword></Keyword>
-    <Keyword></Keyword>
     <Parameter>
       <Name>Frequency</Name>
       <Description>Frequencies used to sonde ionopshere</Description>
-      <Caveats/>
       <Cadence>PT5M</Cadence>
       <Units>MHz</Units>
       <Wave>
@@ -139,7 +130,6 @@
       <Name>Virtual Height</Name>
       <Description>The apparent height of an ionospheric layer deduced from the time delay of a reflected radio pulse upon the assumption that it travelled at the speed of light over its entire path. However, the radio wave actually slows down as it is refracted so that the virtual height is greater than the true height of the refracting layer.
       </Description>
-      <Caveats/>
       <Cadence>PT5M</Cadence>
       <Units>Km</Units>
       <ValidMin>50</ValidMin>
@@ -148,6 +138,5 @@
         <MixedQuantity>Other</MixedQuantity>
       </Mixed>
     </Parameter>
-    <Extension/>
   </NumericalData>
 </Spase>
