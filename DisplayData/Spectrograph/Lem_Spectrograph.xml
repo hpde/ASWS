@@ -4,7 +4,6 @@
     <ResourceID>spase://ASWS/DisplayData/Spectrograph/Lem_Spectrograph</ResourceID>
     <ResourceHeader>
       <ResourceName>Australian Space Weather Services Learmonth Observatory Spectrograms</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2021-03-29T17:14:50Z</ReleaseDate>
       <Description>Culgoora and Learmonth Observatories dynamic spectrogram plots display frequency in MHz on the vertical axis and time in UT on the horizontal axis. The time span for each plot varies, generally spanning local day time hours with time resolution of 3 seconds. The frequency range is 18 - 1800 MHz for Culgoora spectrogams and 25 - 180 MHz for Learmonth spectrograms. The intensity values are color coded and are expressed as relative logarithmic units (0 to 255). 
 The Culgoora spectrograms consist of 4 frequency bands: 18-57, 57-180, 180-570 570 -1800 MHz
@@ -29,7 +28,7 @@ and Learmonth has 2 bands: 25-75, 75-180 MHz. The two Learmonth bands are each d
       <InformationURL>
         <Name>Software</Name>
         <URL>ftp://ftp-out.sws.bom.gov.au/wdc/wdc_tools/solar_viewers/spectrograph/</URL>   
-        <Description></Description>
+        <Description>WDC Tools Solar Viewers</Description>
         <Language>en</Language>
       </InformationURL>
     </ResourceHeader>
@@ -60,7 +59,6 @@ and Learmonth has 2 bands: 25-75, 75-180 MHz. The two Learmonth bands are each d
       </AccessURL>
       <Format>GIF</Format>
       <Encoding>None</Encoding>
-      <Acknowledgement/>
     </AccessInformation>
     <InstrumentID>spase://ASWS/Instrument/Ground/Learmonth/Radiospectrograph</InstrumentID>
     <MeasurementType>Waves.Passive</MeasurementType>
@@ -90,9 +88,7 @@ and Learmonth has 2 bands: 25-75, 75-180 MHz. The two Learmonth bands are each d
     <Parameter>
       <Name>Relative counts</Name>
       <Description>The intensity values are color coded and are expressed as relative logarithmic units (0 to 255).</Description>
-      <Caveats/>
       <Cadence>PT12H</Cadence>
-      <Units/>
       <Wave>
         <WaveType>PlasmaWaves</WaveType>
         <Qualifier>Magnitude</Qualifier>
@@ -106,6 +102,5 @@ and Learmonth has 2 bands: 25-75, 75-180 MHz. The two Learmonth bands are each d
         </FrequencyRange>
       </Wave>
     </Parameter>
-    <Extension/>
   </DisplayData>
 </Spase>

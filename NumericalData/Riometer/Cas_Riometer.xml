@@ -4,7 +4,6 @@
     <ResourceID>spase://ASWS/NumericalData/Riometer/Cas_Riometer</ResourceID>
     <ResourceHeader>
       <ResourceName>Australian Space Weather Services Casey Riometer</ResourceName>
-      <AlternateName/>
       <ReleaseDate>2021-03-29T17:14:50Z</ReleaseDate>
       <Description>
 	  A riometer (relative ionospheric opacity meter) (30 MHz) is an instrument used to quantify the amount of electromagnetic wave ionospheric absorption in the atmosphere.[1] As the name implies, a riometer measures the "opacity" of the ionosphere to radio noise emanating from distant stars and galaxies. In the absence of any ionospheric absorption, this radio noise, averaged over a sufficiently long period of time, forms a quiet-day curve. Increased ionization in the ionosphere will cause absorption of radio signals (both terrestrial and extraterrestrial), and a departure from the quiet-day curve. The difference between the quiet-day curve and the riometer signal is an indicator of the amount of absorption, and is measured in decibels. Riometers are generally passive radio antenna operating in the VHF radio frequency range (~30 MHz). The SWS WDC archives Riometer data obtained from Casey, Davis, Mawson and Macquarie Island in Antarctica. The first Riometer data file from Casey was obtained on 17/01/1989. 
@@ -38,7 +37,6 @@
       </AccessURL>
       <Format>GIF</Format>
       <Encoding>None</Encoding>
-      <Acknowledgement/>
     </AccessInformation>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/SWS</RepositoryID>
@@ -60,7 +58,6 @@
       </AccessURL>
       <Format>Text</Format>
       <Encoding>GZIP</Encoding>
-      <Acknowledgement/>
     </AccessInformation>
 	<ProviderProcessingLevel>The Riometer data are processed data and are uncalibrated.</ProviderProcessingLevel>  
     <InstrumentID>spase://ASWS/Instrument/Ground/Casey/Riometer</InstrumentID>
@@ -73,19 +70,12 @@
       </TimeSpan>
     </TemporalDescription>
 	<ObservedRegion>Earth.NearSurface</ObservedRegion>
-    <Caveats></Caveats>
     <!-- Keywords pertaining to the data presentation -->
     <Keyword>Riometer</Keyword>
-    <Keyword></Keyword>
-    <Keyword></Keyword>
-    <Keyword></Keyword>
     <!-- Keywords pertaining to the physical phenomena appearing in magnetometer --> 
-    <Keyword></Keyword>
-    <Keyword></Keyword>
     <Parameter>
       <Name>Raw</Name>
       <Description>Cosmic noise intensity measured with a riometer.</Description>
-      <Caveats/>
       <Cadence>PT10S</Cadence>
       <Units>DU</Units>
 	  <ValidMin>-2047</ValidMin>
@@ -97,7 +87,6 @@
     <Parameter>
 	  <Name>QDC(quiet-day curve)</Name>
       <Description>A QDC is defined as the signal intensity that is observed with a quiet and undisturbed ionosphere. The QDC thus defined is subjected to seasonal and even shorter-term variations. A QDC determined for a given period is therefore only valid for that particular period of time.</Description>
-      <Caveats/>
       <Cadence>PT10S</Cadence>
       <Units>DU</Units>
 	  <ValidMin>-2047</ValidMin>
@@ -109,7 +98,6 @@
 	<Parameter>
 	  <Name>Absorption</Name>
       <Description>Absorption = (QDC – Raw) / obliquity factor.</Description>
-      <Caveats/>
       <Cadence>PT10S</Cadence>
       <Units>dB</Units>
 	  <ValidMin>-20</ValidMin>
@@ -118,6 +106,5 @@
 	    <FieldQuantity>Electromagnetic</FieldQuantity>
 	  </Field>
 	</Parameter>
-    <Extension/>
   </NumericalData>
 </Spase>

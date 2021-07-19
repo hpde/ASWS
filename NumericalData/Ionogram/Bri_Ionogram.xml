@@ -43,7 +43,6 @@
       </AccessURL>
       <Format>Text</Format>
       <Encoding>GZIP</Encoding>
-      <Acknowledgement/>
     </AccessInformation>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/SWS</RepositoryID>
@@ -58,7 +57,6 @@
       </AccessURL>
       <Format>Text</Format>
       <Encoding>None</Encoding>
-      <Acknowledgement/>
     </AccessInformation>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/SWS</RepositoryID>
@@ -73,7 +71,6 @@
       </AccessURL>
       <Format>Binary</Format>
       <Encoding>None</Encoding>
-      <Acknowledgement/>
     </AccessInformation>
     <AccessInformation>
       <RepositoryID>spase://SMWG/Repository/SWS</RepositoryID>
@@ -88,7 +85,6 @@
       </AccessURL>
       <Format>Binary</Format>
       <Encoding>None</Encoding>
-      <Acknowledgement/>
     </AccessInformation>
 	<ProviderProcessingLevel>The original ionogram data are raw data, they are then cleaned by reducing noise signals at the station.
 	The manually scaled data is calibrated and the autoscaled data is uncalibrated.</ProviderProcessingLevel>  
@@ -103,7 +99,6 @@
     </TemporalDescription>
     <SpectralRange>RadioFrequency</SpectralRange>
 	<ObservedRegion>Earth.NearSurface.Ionosphere</ObservedRegion>
-    <Caveats></Caveats>
     <!-- Keywords pertaining to the data presentation -->
     <Keyword>Ionogram</Keyword>
     <Keyword>Ionospheric data</Keyword>
@@ -112,12 +107,9 @@
     <Keyword>Hourly ionospheric data</Keyword>
     <Keyword>Scaled parameters</Keyword>
     <!-- Keywords pertaining to the physical phenomena appearing in ionogram --> 
-    <Keyword></Keyword>
-    <Keyword></Keyword>
     <Parameter>
       <Name>Frequency</Name>
       <Description>Frequencies used to sonde ionopshere</Description>
-      <Caveats/>
       <Cadence>PT5M</Cadence>
       <Units>MHz</Units>
       <Wave>
@@ -137,7 +129,6 @@
       <Name>Virtual Height</Name>
       <Description>The apparent height of an ionospheric layer deduced from the time delay of a reflected radio pulse upon the assumption that it travelled at the speed of light over its entire path. However, the radio wave actually slows down as it is refracted so that the virtual height is greater than the true height of the refracting layer.
       </Description>
-      <Caveats/>
       <Cadence>PT5M</Cadence>
       <Units>Km</Units>
       <ValidMin>50</ValidMin>
@@ -146,6 +137,5 @@
 	<MixedQuantity>Other</MixedQuantity>
       </Mixed>
     </Parameter>
-    <Extension/>
   </NumericalData>
 </Spase>
