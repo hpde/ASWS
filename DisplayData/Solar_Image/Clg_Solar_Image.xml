@@ -46,10 +46,10 @@
             <Language>en</Language>
          </AccessURL>
          <AccessURL>
-            <Name>FTP access to Solar Images (not with most browsers)</Name>
-            <URL>ftp://ftp-out.sws.bom.gov.au/wdc/wdc_sol_archive/data/culgoora/</URL>
+            <Name>Access to Solar Images (not with most browsers)</Name>
+            <URL>https://downloads.sws.bom.gov.au/wdc/wdc_sol_archive/data/culgoora/</URL>
             <Style>Listing</Style>
-            <Description>FTP access to the Culgoora H-Alpha and White Light solar image data files</Description>
+            <Description>Access to the Culgoora H-Alpha and White Light solar image data files</Description>
             <Language>en</Language>
          </AccessURL>
          <Format>JPEG</Format>
